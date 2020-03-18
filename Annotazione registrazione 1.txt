@@ -1,0 +1,4260 @@
+0001 002   vai giù
+           00:19:47.297 - 00:19:47.997
+
+0002 002   Ehm:
+           00:19:48.977 - 00:19:49.737
+
+0003 002   devo dire burro? Non lo so
+           00:19:50.567 - 00:19:51.927
+
+0004 002   dove c'è il burro, dove c'è l'immagine. 
+           00:19:52.530 - 00:19:54.920
+
+0005 002   un'immagine hai
+           00:19:55.165 - 00:19:56.305
+
+0006 002   Se vai gi#ù
+           00:19:56.905 - 00:19:57.435
+
+0007 001   *mmh::
+           00:19:57.340 - 00:19:58.290
+           (6.26)
+
+0008 002   ho un'immagine
+           00:20:04.547 - 00:20:05.367
+           (1.37)
+
+0009 002   vabbè eh
+           00:20:06.737 - 00:20:07.097
+
+0010 001   ehh:
+           00:20:07.082 - 00:20:08.142
+
+0011 002   eh:eh
+           00:20:08.262 - 00:20:08.812
+
+0012 001   burro no
+           00:20:08.812 - 00:20:09.402
+
+0013 002   risata
+           00:20:09.947 - 00:20:10.327
+
+0014 001   *(o)key
+           00:20:10.147 - 00:20:10.797
+
+0015 002   eh no no, non sarà burro
+           00:20:10.942 - 00:20:12.302
+
+0016 001   ride
+           00:20:12.352 - 00:20:13.162
+
+0017 002   poi
+           00:20:13.152 - 00:20:13.592
+           (1.10)
+
+0018 001   bene
+           00:20:14.692 - 00:20:15.072
+
+0019 002   vai dritto, gira intorno aa:
+           00:20:15.112 - 00:20:17.672
+
+0020 002   a:a salsiccia
+           00:20:18.312 - 00:20:19.322
+
+0021 002   tip/fai una specie di rotonda
+           00:20:20.188 - 00:20:22.228
+
+0022 001   aspè-aspè:
+           00:20:22.238 - 00:20:23.458
+
+0023 002   sì,sì: sì
+           00:20:23.468 - 00:20:24.398
+
+0024 001   un minuto che qui è complicato mh:
+           00:20:24.995 - 00:20:27.055
+           (8.34)
+
+0025 002   mh
+           00:20:35.395 - 00:20:35.625
+
+0026 001   mh:. mh:.
+           00:20:36.250 - 00:20:37.430
+
+0027 002   ride
+           00:20:37.450 - 00:20:37.950
+
+0028 001   mh:
+           00:20:38.270 - 00:20:39.360
+           (4.52)
+
+0029 002   ah:
+           00:20:43.880 - 00:20:44.550
+
+0030 001   alla salsiccia:
+           00:20:44.765 - 00:20:45.925
+
+0031 002   vai:/giri a destr/vai a destra
+           00:20:46.325 - 00:20:48.575
+
+0032 002   fai una riga a destra
+           00:20:48.820 - 00:20:50.690
+           (1.48)
+
+0033 002   fai una specie di rotonda e sali
+           00:20:52.165 - 00:20:54.305
+           (2.25)
+
+0034 002   no
+           00:20:56.555 - 00:20:56.815
+
+0035 002   risata
+           00:20:57.125 - 00:20:58.845
+
+0036 002   che disastro
+           00:20:59.105 - 00:21:00.285
+           (1.04)
+
+0037 001   ehm:
+           00:21:01.325 - 00:21:02.495
+           (1.64)
+
+0038 001   *ehm:
+           00:21:04.140 - 00:21:06.720
+
+0039 002   sei salita? <sp> sei anda su?
+           00:21:05.140 - 00:21:06.720
+
+0040 001   sì <sp> da un bel po'
+           00:21:07.610 - 00:21:08.430
+
+0041 002   pa++ passa in me+ passa in me#ggio in mezzo a due immagini
+           00:21:08.820 - 00:21:13.520
+
+0042 001   eh quali?
+           00:21:14.490 - 00:21:15.080
+           (1.23)
+
+0043 002   topo gigio <sl> bello simpatico <sp> e carne magra
+           00:21:16.310 - 00:21:20.520
+
+0044 001   *ok
+           00:21:17.690 - 00:21:17.890
+           (1.71)
+
+0045 001   uuh: ok dai
+           00:21:22.226 - 00:21:23.216
+
+0046 002   okok
+           00:21:23.431 - 00:21:24.141
+           (5.56)
+
+0047 001   allora se andiamo di qua poi di qua salsiccia la possiamo anche togliere
+           00:21:29.701 - 00:21:32.971
+           (1.54)
+
+0048 001   *eh/
+           00:21:34.511 - 00:21:34.881
+
+0049 002   *sa+ sali <sp> attraversa queste immagini
+           00:21:34.736 - 00:21:37.726
+
+0050 002   giri a sinistra
+           00:21:38.641 - 00:21:39.941
+           (1.30)
+
+0051 002   *cioè
+           00:21:41.240 - 00:21:41.510
+
+0052 001   *quale sinistra? mia o tua?
+           00:21:41.345 - 00:21:42.815
+
+0053 002   mia
+           00:21:43.190 - 00:21:43.580
+           (3.99)
+
+0054 002   ehm. deve passare tra topo gigio e carne magra poi sale e va a sinistra dove c'è cane che latra e la sciarpa.
+           00:21:47.570 - 00:21:56.870
+           (11.22)
+
+0055 001   non è uguale
+           00:22:08.093 - 00:22:08.653
+
+0056 002   ahahah
+           00:22:08.613 - 00:22:09.683
+
+0057 001   ohmiodio <Sp> ehm: 
+           00:22:09.678 - 00:22:12.098
+
+0058 001   <sl>
+           00:22:12.118 - 00:22:12.623
+
+0059 001   sì
+           00:22:12.623 - 00:22:12.863
+
+0060 002   eh! hai la sciarpa?
+           00:22:13.143 - 00:22:14.863
+
+0061 001   la sciarpa? un minuto la cerco
+           00:22:15.453 - 00:22:17.273
+
+0062 002   no allora non ce l'hai la sciarpa
+           00:22:17.403 - 00:22:19.093
+
+0063 001   si ce l'ho!
+           00:22:19.108 - 00:22:19.558
+
+0064 002   ce l'hai
+           00:22:19.693 - 00:22:19.973
+
+0065 001   vicino al cane che latra
+           00:22:20.053 - 00:22:21.143
+
+0066 002   eh <sl> mh
+           00:22:21.603 - 00:22:22.643
+
+0067 001   mh!
+           00:22:23.033 - 00:22:23.313
+
+0068 002   eh
+           00:22:23.383 - 00:22:23.723
+
+0069 001   mh.
+           00:22:23.663 - 00:22:24.373
+
+0070 002   mhm:::
+           00:22:25.069 - 00:22:25.783
+
+0071 002   sei andata da topo gigio
+           00:22:25.783 - 00:22:26.993
+           (1.38)
+
+0072 002   sei andata a sinistra, vai su
+           00:22:28.378 - 00:22:30.618
+
+0073 001   asp/ quale sinistra mia o+
+           00:22:30.688 - 00:22:32.000
+
+0074 002   *la* mia
+           00:22:32.013 - 00:22:32.803
+
+0075 002   questa quindi quella
+           00:22:33.088 - 00:22:35.718
+           (5.30)
+
+0076 001   poi non mi sembrava più giusto quindi mi sono fermata 
+           00:22:41.023 - 00:22:44.323
+
+0077 002   come hai fatto giù e ti sei fermata
+           00:22:44.373 - 00:22:46.163
+
+0078 001   ma no
+           00:22:46.163 - 00:22:46.523
+           (7.24)
+
+0079 002   a quell'immagine passiamo/
+           00:22:53.760 - 00:22:56.670
+
+0080 001   quale immagine?
+           00:22:56.685 - 00:22:57.375
+           (1.75)
+
+0081 002   la sciarpa
+           00:22:59.130 - 00:22:59.630
+
+0082 002   che non hai
+           00:23:00.239 - 00:23:01.079
+
+0083 002   che ce l'hai in un altro/ vabbè, comunque
+           00:23:01.469 - 00:23:03.289
+           (1.94)
+
+0084 002   la sciarpa è a sinistra <sp> mia
+           00:23:05.229 - 00:23:07.139
+           (1.58)
+
+0085 001   mhh: <sl> allora
+           00:23:08.714 - 00:23:10.594
+
+0086 001   eh ma devo fare così/mh
+           00:23:11.174 - 00:23:14.394
+
+0087 002   starà impazzendo
+           00:23:15.104 - 00:23:16.194
+
+0088 001   sì
+           00:23:17.019 - 00:23:17.199
+
+0089 002   <<sospira>>
+           00:23:17.894 - 00:23:18.564
+
+0090 001   ahah
+           00:23:18.449 - 00:23:18.699
+
+0091 002   ahha <<e sospiro>>
+           00:23:18.774 - 00:23:19.154
+
+0092 002   appunto
+           00:23:19.914 - 00:23:20.474
+
+0093 001   vedrai com'è difficile
+           00:23:20.954 - 00:23:22.734
+
+0094 002   mah mah difficile spiegare so +++incomprensibile+++
+           00:23:22.834 - 00:23:26.424
+           (2.21)
+
+0095 001   oplà! e sono qui
+           00:23:28.638 - 00:23:30.668
+           (3.43)
+
+0096 002   c'è la zanzara vai sopra la zanzara
+           00:23:34.097 - 00:23:36.377
+
+0097 001   mhmh
+           00:23:36.997 - 00:23:37.777
+           (1.30)
+
+0098 002   fai una curva
+           00:23:39.077 - 00:23:40.247
+
+0099 001   mh
+           00:23:40.612 - 00:23:40.912
+           (1.32)
+
+0100 001   *poi
+           00:23:42.232 - 00:23:42.542
+
+0101 002   *e* passi in mezzo alla sbarra e alla piazza
+           00:23:42.537 - 00:23:44.917
+           (3.11)
+
+0102 001   allora <sp> fammi vedere se ho la piazza
+           00:23:48.029 - 00:23:50.079
+           (1.73)
+
+0103 001   mhh: <sl> sì ce l'ho
+           00:23:51.804 - 00:23:53.814
+           (1.22)
+
+0104 002   in mezzo alla pia+
+           00:23:55.030 - 00:23:55.930
+
+0105 002   passi in mezzo alla sbarra e alla piazza, vai su <sp> sali sali sali <sp> eh <<ride>>
+           00:23:56.420 - 00:24:01.220
+
+0106 002   fatto?
+           00:24:01.720 - 00:24:02.060
+           (1.78)
+
+0107 002   no
+           00:24:03.840 - 00:24:04.200
+
+0108 001   no
+           00:24:04.380 - 00:24:04.790
+
+0109 002   no
+           00:24:04.785 - 00:24:05.325
+
+0110 002   okey
+           00:24:05.335 - 00:24:05.725
+
+0111 001   mmhh:
+           00:24:05.700 - 00:24:06.670
+
+0112 001   non mi piace
+           00:24:07.145 - 00:24:07.925
+
+0113 002   la+ +++non udibile+++
+           00:24:08.355 - 00:24:09.835
+
+0114 001   ehm:: <sl>  mhh:
+           00:24:10.065 - 00:24:13.365
+           (1.88)
+
+0115 001   ommiodio
+           00:24:15.241 - 00:24:15.661
+           (1.94)
+
+0116 001   quindi te hai star+/finish sopra?
+           00:24:17.601 - 00:24:20.211
+
+0117 002   no. giù 
+           00:24:20.746 - 00:24:21.676
+
+0118 002   <sl>
+           00:24:21.704 - 00:24:24.414
+
+0119 002   e fa tutto il giro
+           00:24:24.424 - 00:24:25.524
+           (2.03)
+
+0120 002   ah ok
+           00:24:27.554 - 00:24:27.984
+
+0121 001   ah ok
+           00:24:28.319 - 00:24:29.069
+
+0122 002   sono le immagini che <sp> sono diverse in posti diversi
+           00:24:29.314 - 00:24:32.664
+
+0123 002   e fin qua ci siamo Gabri
+           00:24:33.629 - 00:24:35.279
+           (1.70)
+
+0124 001   e quindi in teoria non dovrei seguire i nomi ma quel che mi dici
+           00:24:36.975 - 00:24:41.505
+
+0125 002   sì
+           00:24:42.250 - 00:24:42.540
+
+0126 001   ahh:
+           00:24:43.145 - 00:24:43.385
+
+0127 002   sì
+           00:24:43.425 - 00:24:43.585
+
+0128 001   allora ho capito
+           00:24:43.755 - 00:24:44.575
+
+0129 001   riiniziamo da capo p+
+           00:24:44.945 - 00:24:47.055
+
+0130 002   ah
+           00:24:47.050 - 00:24:47.180
+
+0131 001   penso si esserci
+           00:24:47.115 - 00:24:47.775
+
+0132 002   da capo?
+           00:24:47.795 - 00:24:48.345
+
+0133 001   sì da capo capo
+           00:24:48.350 - 00:24:49.860
+           (11.20)
+
+0134 002   allora partiamo da start
+           00:25:01.060 - 00:25:02.800
+
+0135 001   ok
+           00:25:02.920 - 00:25:03.290
+
+0136 002   vai giù
+           00:25:03.290 - 00:25:03.770
+
+0137 001   ok
+           00:25:04.080 - 00:25:05.040
+           (1.19)
+
+0138 002   gira <sl> fino all'immagine
+           00:25:06.230 - 00:25:08.920
+
+0139 001   mh
+           00:25:07.855 - 00:25:07.985
+           (2.22)
+
+0140 002   gira a destra <sp> la mia destra
+           00:25:11.140 - 00:25:13.360
+
+0141 001   ok
+           00:25:14.310 - 00:25:15.100
+           (1.21)
+
+0142 002   fai una rotonda intorno a quell+ all'/ intorno a un'im-immagine che hai dopo
+           00:25:16.305 - 00:25:21.225
+           (3.57)
+
+0143 002   e vai su <sl> su su su
+           00:25:24.795 - 00:25:26.815
+           (2.75)
+
+0144 001   su
+           00:25:29.565 - 00:25:30.055
+           (1.96)
+
+0145 002   dovresti passare in mezzo al topo gigio e alla carne magra
+           00:25:32.010 - 00:25:35.580
+
+0146 001   ah-ah
+           00:25:36.235 - 00:25:37.075
+
+0147 002   e su su su
+           00:25:37.475 - 00:25:38.735
+           (1.95)
+
+0148 002   gira a sinistra, la mia sinistra
+           00:25:40.685 - 00:25:42.945
+
+0149 001   la mia destra
+           00:25:42.935 - 00:25:44.315
+
+0150 002   ahahah <<ride>>
+           00:25:44.345 - 00:25:45.155
+
+0151 001   adesso qui
+           00:25:46.010 - 00:25:47.130
+
+0152 002   dovresti passare in mezzo a due immagini
+           00:25:47.520 - 00:25:50.020
+
+0153 001   mhm:
+           00:25:50.430 - 00:25:51.720
+           (2.29)
+
+0154 001   io se-se ho fatto giusto dovrei avere la ladra e cirri
+           00:25:54.007 - 00:25:58.677
+           (2.80)
+
+0155 002   il cane e la sciarpa
+           00:26:01.472 - 00:26:03.682
+           (2.58)
+
+0156 002   eh certo perchè sono diverse vero e quindi è diverso tutto
+           00:26:06.257 - 00:26:10.017
+           (1.77)
+
+0157 002   mamma mia
+           00:26:11.791 - 00:26:12.621
+           (2.17)
+
+0158 002   andiamo avanti
+           00:26:14.796 - 00:26:15.316
+           (4.10)
+
+0159 002   ehm:
+           00:26:19.416 - 00:26:20.356
+
+0160 002   vabbè sei passata in mezzo a queste due immagini
+           00:26:20.586 - 00:26:23.476
+
+0161 001   mhm mhm
+           00:26:23.471 - 00:26:24.641
+           (1.93)
+
+0162 002   eh...
+           00:26:26.572 - 00:26:27.142
+           (2.53)
+
+0163 002   vai a destra
+           00:26:29.667 - 00:26:30.357
+
+0164 001   la tua?
+           00:26:31.222 - 00:26:31.872
+
+0165 002   la mia
+           00:26:31.892 - 00:26:32.432
+           (4.36)
+
+0166 001   a destra poi?
+           00:26:36.792 - 00:26:38.002
+
+0167 002   vai a destra <sp> fai una curva
+           00:26:38.207 - 00:26:41.167
+
+0168 001   sopr+/ vicino all'immagine?
+           00:26:41.937 - 00:26:43.487
+
+0169 002   ssì <sp> poi una cur+ che va a sinistra per poi salire
+           00:26:43.942 - 00:26:48.392
+           (6.55)
+
+0170 001   aaspè è ++
+           00:26:54.937 - 00:26:56.077
+
+0171 002   ok ok ok
+           00:26:56.077 - 00:26:57.057
+
+0172 001   quindi <sl> quand+ dopo che arrivo tra due immagini vado a sinistra?
+           00:26:57.537 - 00:27:01.557
+           (1.11)
+
+0173 002   sì <sl> no no aspè fai la curva hai fatto la curva a sinistra
+           00:27:02.667 - 00:27:08.157
+
+0174 001   sì
+           00:27:08.732 - 00:27:08.972
+
+0175 002   fatte? vai su <sp> da questa curva
+           00:27:08.972 - 00:27:12.362
+
+0176 001   come faccio ad andare già su?
+           00:27:12.537 - 00:27:13.677
+
+0177 002   ohh:
+           00:27:13.687 - 00:27:14.717
+
+0178 001   sono ancora su
+           00:27:14.712 - 00:27:15.732
+
+0179 002   eeh: passare in mezzo alla sbarra e alla piazza
+           00:27:16.122 - 00:27:19.032
+           (1.79)
+
+0180 001   ok stiamo per finire?
+           00:27:20.824 - 00:27:22.034
+
+0181 002   no
+           00:27:22.569 - 00:27:23.259
+
+0182 001   ooh!
+           00:27:23.544 - 00:27:24.904
+
+0183 002   eh fai/ vai su
+           00:27:25.334 - 00:27:26.364
+           (1.33)
+
+0184 002   tu vai su
+           00:27:27.689 - 00:27:28.299
+
+0185 001   come?
+           00:27:28.434 - 00:27:28.894
+           (2.02)
+
+0186 001   eh: eh:
+           00:27:30.914 - 00:27:32.154
+
+0187 002   cosa c'+
+           00:27:32.174 - 00:27:32.764
+
+0188 001   su su dove?
+           00:27:32.789 - 00:27:34.249
+
+0189 002   io ho sa:+ la sacra di san michele e la sarta
+           00:27:34.599 - 00:27:37.829
+
+0190 001   mhm:. se dici tipo su dove c'è scritto tipo speaker 1 
+           00:27:38.198 - 00:27:43.208
+
+0191 002   io non ce l'ho <sp> ah <sp> eh sì però non devi andare su su dallo speaker 1
+           00:27:43.343 - 00:27:48.593
+           (2.81)
+
+0192 002   ahah
+           00:27:51.403 - 00:27:52.673
+           (1.23)
+
+0193 001   eeh:::
+           00:27:53.898 - 00:27:54.608
+
+0194 002   allora
+           00:27:54.613 - 00:27:55.003
+           (1.76)
+
+0195 002   eh sì
+           00:27:56.768 - 00:27:57.668
+
+0196 001   quindi giro così
+           00:27:58.018 - 00:27:59.828
+           (9.56)
+
+0197 002   come non hai capito
+           00:28:09.383 - 00:28:11.103
+
+0198 002   al+ al fin/ alla fine ci arrivi di certo secondo me 
+           00:28:11.113 - 00:28:14.853
+
+0199 001   mhh
+           00:28:14.863 - 00:28:15.613
+
+0200 002   come ci arrivi...
+           00:28:15.338 - 00:28:15.958
+           (1.63)
+
+0201 001   ah ok
+           00:28:17.588 - 00:28:18.318
+           (1.72)
+
+0202 001   vabbè facciam finta di aver girato ehm
+           00:28:20.033 - 00:28:22.193
+
+0203 002   vai sotto san michele
+           00:28:22.183 - 00:28:23.933
+           (2.82)
+
+0204 002   perchè devi salire andare sotto san michele 
+           00:28:26.756 - 00:28:29.666
+
+0205 002   stai lì
+           00:28:30.216 - 00:28:31.096
+
+0206 001   ehm: penso di non avere san mich+ ah sì sacra di san michele <sp< ok ce l'ho
+           00:28:31.116 - 00:28:35.566
+
+0207 002   sì!
+           00:28:35.931 - 00:28:36.551
+
+0208 001   eh però in alto
+           00:28:37.171 - 00:28:38.641
+
+0209 002   eh deve andare in alto
+           00:28:38.906 - 00:28:41.676
+
+0210 001   ah
+           00:28:39.021 - 00:28:39.361
+           (4.99)
+
+0211 002   le hai fatte tu queste immagini?
+           00:28:46.664 - 00:28:47.824
+           (4.81)
+
+0212 001   di sopra di sopra di sopra <sp> oddio
+           00:28:52.634 - 00:28:55.404
+
+0213 001   eh aspè, dopo il san michele?
+           00:28:55.879 - 00:28:57.649
+           (2.27)
+
+0214 002   dopo il san michele vai a destra
+           00:28:59.916 - 00:29:01.976
+
+0215 002   <sl>
+           00:29:01.976 - 00:29:02.446
+
+0216 002   e fai un giro intorno al pane
+           00:29:02.456 - 00:29:05.036
+           (2.02)
+
+0217 002   però tu il pane non ce l'hai dove ce l'ho io ahah
+           00:29:07.057 - 00:29:10.317
+
+0218 001   così?
+           00:29:10.350 - 00:29:10.970
+           (1.13)
+
+0219 001   dopo che faccio così
+           00:29:12.100 - 00:29:13.370
+           (6.13)
+
+0220 002   devi passare da una sarta/ cioè prima di arrivare dal pane devi a+
+           00:29:19.497 - 00:29:24.737
+
+0221 001   mh:
+           00:29:25.670 - 00:29:26.300
+
+0222 001   mh:
+           00:29:27.160 - 00:29:27.950
+           (9.76)
+
+0223 002   poi
+           00:29:37.710 - 00:29:38.280
+
+0224 001   poi dop+ aspetta
+           00:29:38.330 - 00:29:39.580
+
+0225 002   sìsì
+           00:29:39.595 - 00:29:40.075
+
+0226 001   dopo la sarta
+           00:29:40.090 - 00:29:40.500
+           (2.21)
+
+0227 001   passiamo di qua
+           00:29:42.710 - 00:29:44.240
+
+0228 001   c'è ppp+ ok dai siamo arivati
+           00:29:44.260 - 00:29:47.080
+
+0229 002   hai la bottarga di mug+muggìne
+           00:29:47.685 - 00:29:50.730
+
+0230 002   *mùggine
+           00:29:50.730 - 00:29:51.910
+
+0231 001   *mùggine, sì
+           00:29:50.741 - 00:29:51.911
+
+0232 002   *vabbè la bottarga
+           00:29:51.956 - 00:29:53.606
+
+0233 001   sì sì sì
+           00:29:51.956 - 00:29:53.606
+
+0234 002   poi <sp> fai un cerchio intorno alla bottarga
+           00:29:53.661 - 00:29:56.241
+
+0235 001   però quando arriviamo al pane faccio un *cerchio?
+           00:29:56.771 - 00:29:59.461
+
+0236 002   *eh n0* dal pane che hai fatto fai un cerchio intorno alla bottarga
+           00:29:58.931 - 00:30:04.016
+
+0237 001   ok
+           00:30:00.343 - 00:30:00.653
+
+0238 001   *maa:
+           00:30:02.628 - 00:30:03.128
+
+0239 001   quindi quando arrivo al pane <sl> de+ e cerchio: destra sin+?
+           00:30:04.375 - 00:30:10.235
+
+0240 002   poi ti posso chiedere una cosa?
+           00:30:10.785 - 00:30:12.395
+           (3.04)
+
+0241 001   fai un cerchio normale <sp> vabbè vai
+           00:30:15.434 - 00:30:18.914
+
+0242 002   vai giù
+           00:30:18.984 - 00:30:19.754
+           (1.67)
+
+0243 001   vado giù
+           00:30:21.429 - 00:30:22.379
+           (1.82)
+
+0244 002   hai cirri? <sp> ciri
+           00:30:24.194 - 00:30:25.664
+           (1.98)
+
+0245 002   no
+           00:30:27.639 - 00:30:28.019
+
+0246 001   eeh: sì
+           00:30:28.049 - 00:30:29.319
+
+0247 002   ma molto giuù /cioè dove c'è/ giù giù
+           00:30:29.444 - 00:30:32.634
+
+0248 001   vicino quasi a agh: mio dio ehm: alla bottarga di mu:ggine
+           00:30:32.683 - 00:30:38.803
+
+0249 002   eh: <sl> beh
+           00:30:38.113 - 00:30:39.403
+
+0250 001   quasi
+           00:30:39.508 - 00:30:40.638
+           (1.00)
+
+0251 002   fai una: rigaa: vicino a cirri per poi andare giù vabbè vai gù dalla bottarga vai giù 
+           00:30:41.638 - 00:30:46.958
+           (1.18)
+
+0252 001   sì
+           00:30:48.138 - 00:30:48.458
+
+0253 002   hai una capra?
+           00:30:49.308 - 00:30:50.088
+
+0254 001   sì
+           00:30:50.398 - 00:30:50.788
+
+0255 002   vai giù
+           00:30:51.223 - 00:30:51.523
+
+0256 001   si chiama capra
+           00:30:51.743 - 00:30:52.563
+           (1.62)
+
+0257 002   hai la barca?
+           00:30:54.183 - 00:30:55.003
+
+0258 001   sì
+           00:30:55.033 - 00:30:55.503
+           (1.04)
+
+0259 002   vai giù
+           00:30:56.548 - 00:30:57.348
+
+0260 001   sopra la bar*ca
+           00:30:58.278 - 00:30:58.968
+
+0261 002   però non sopra la barca <sp> a destra della barca
+           00:30:58.683 - 00:31:01.883
+           (2.05)
+
+0262 002   poi
+           00:31:03.933 - 00:31:04.313
+
+0263 001   mii:
+           00:31:04.403 - 00:31:04.993
+           (1.84)
+
+0264 002   vai <sp> sotto a sinistra vai a sinistra dalla barca
+           00:31:06.828 - 00:31:12.308
+
+0265 001   *ok
+           00:31:10.898 - 00:31:11.208
+
+0266 002   hai la ladra?
+           00:31:13.243 - 00:31:13.963
+
+0267 001   giro a destra o sinistra
+           00:31:13.973 - 00:31:15.293
+
+0268 002   la mia sinistra
+           00:31:15.413 - 00:31:16.663
+
+0269 001   mh: <sp> stavo scherzando no <cough> <sp> passiamo da questa parte
+           00:31:17.148 - 00:31:21.028
+           (2.98)
+
+0270 002   hai la ladra? <lp> con i soldi che volano l+
+           00:31:24.008 - 00:31:27.248
+
+0271 001   sì, di sopra
+           00:31:27.328 - 00:31:28.698
+
+0272 002   come di so+?  <laugh>
+           00:31:29.023 - 00:31:30.803
+
+0273 001   però stiamo, ci stiamo avvicinando *lo stesso
+           00:31:31.203 - 00:31:33.413
+
+0274 002   *fai un* giro intorno alla ladra
+           00:31:32.808 - 00:31:35.018
+           (2.75)
+
+0275 001   mh: <lp> poi?
+           00:31:37.767 - 00:31:39.067
+
+0276 002   vai giù dove c'è abra kadabra
+           00:31:39.437 - 00:31:42.057
+
+0277 001   mh:
+           00:31:42.917 - 00:31:43.487
+
+0278 002   devi passare sotto rabarbaro zucca:
+           00:31:43.542 - 00:31:46.432
+
+0279 001   mh:
+           00:31:46.477 - 00:31:47.137
+
+0280 002   risalire <lp> attraversare il muro <sp> e sei arrivata
+           00:31:48.117 - 00:31:51.797
+
+0281 002   <laugh> <lp> ci siamo *perse*
+           00:31:52.627 - 00:31:55.317
+
+0282 001   *allora
+           00:31:54.512 - 00:31:55.262
+
+0283 001   ehm: sono arrivata alla barca
+           00:31:55.987 - 00:31:58.307
+
+0284 002   ok alla *barca, alla barca hai fatto sal+ <sp> vai a destra e cerchi la ra+ la ladra <lp> che tu non hai
+           00:31:58.317 - 00:32:06.767
+
+0285 001   *ok
+           00:31:59.542 - 00:31:59.852
+
+0286 001   esattamente <lp> quindi vado a destra che è questa <lp> e cerchio la ladra <lp> che <sp> è il muro
+           00:32:07.287 - 00:32:16.257
+
+0287 002   brava <sp> brava
+           00:32:11.312 - 00:32:12.612
+
+0288 002   brava! <lp> poi vai giù/passi giù <laugh>
+           00:32:16.522 - 00:32:21.202
+
+0289 001   ok vado giù
+           00:32:21.232 - 00:32:22.132
+
+0290 002   vai giù, hai ak+ abra kadabra
+           00:32:22.762 - 00:32:25.202
+           (1.03)
+
+0291 001   sì: <sp> abbastanza *lontano
+           00:32:26.232 - 00:32:28.152
+
+0292 002   vai, vai sempre giù vai dove c'è rabarbaro zucca <sp> vai a sin+ a destra, lo cerchi dalla destra
+           00:32:27.412 - 00:32:34.312
+
+0293 001   destra tua o destra mia?
+           00:32:34.302 - 00:32:35.542
+
+0294 002   destra mia, tutto mio
+           00:32:35.822 - 00:32:38.242
+
+0295 001   + sinistra
+           00:32:38.222 - 00:32:39.312
+
+0296 002   anche di lì <sp> *non lo devi cerchiare del tutto però <sl> tipo un semicerchio
+           00:32:39.322 - 00:32:44.322
+
+0297 001   *aspetta
+           00:32:40.242 - 00:32:40.702
+
+0298 001   *aspetta quindi siamo arrivati alla* laTtra e poi
+           00:32:42.632 - 00:32:45.352
+           (2.06)
+
+0299 001   che complicazione
+           00:32:47.412 - 00:32:48.452
+
+0300 002   alla ladra vai giù
+           00:32:48.452 - 00:32:49.712
+
+0301 001   sìì:
+           00:32:49.772 - 00:32:50.562
+
+0302 002   fai un mezzo cerchio co+/ al rabarbar+/ alla zucca <sl> rabarbaro ++
+           00:32:50.572 - 00:32:56.162
+
+0303 001   quindi adesso?
+           00:32:56.452 - 00:32:57.132
+           (2.09)
+
+0304 001   se siamo arrivati dove, dove dice lei penso che ho salsiccia  poi vicino ho ghiri  poi dop+ poi vicino a salsiccia ho aba kadabra e vicino a abra bbb ho sbarra
+           00:32:59.222 - 00:33:09.412
+
+0305 002   vabbè *passi oltre al muro <sl> vai giù sali e vai al muro <lp> per poi arrivare al finish
+           00:33:09.827 - 00:33:18.287
+
+0306 001   *vabbè
+           00:33:10.987 - 00:33:11.207
+
+0307 001   ehm: sì
+           00:33:18.317 - 00:33:19.137
+
+0308 002   sei arrivata gabri!
+           00:33:19.167 - 00:33:20.177
+           (1.78)
+
+0309 001   oh finalmente
+           00:33:21.962 - 00:33:23.402
+           (33.10)
+
+0310 002   start, chiamalo start
+           00:33:56.505 - 00:33:57.975
+
+0311 001   *ok
+           00:33:57.160 - 00:33:57.420
+
+0312 001   ok
+           00:33:58.080 - 00:33:58.520
+
+0313 002   e fin qua ci siamo
+           00:33:58.540 - 00:33:59.110
+
+0314 001   ok vai
+           00:33:59.125 - 00:34:00.175
+
+0315 002   vai un po' giu <sp> poco poco
+           00:34:00.935 - 00:34:03.215
+
+0316 001   poco poco poco <sp> fino alla tizia vicino
+           00:34:03.275 - 00:34:06.545
+
+0317 001   fino a ca*a+
+           00:34:06.845 - 00:34:07.505
+
+0318 002   fino a abra kadabra
+           00:34:07.435 - 00:34:08.895
+           (1.69)
+
+0319 001   mhm: <sp> mh: ook vabbè <sp> ehm: ok
+           00:34:10.588 - 00:34:14.508
+
+0320 002   ok
+           00:34:14.468 - 00:34:14.908
+
+0321 001   ok
+           00:34:14.908 - 00:34:15.678
+           (5.03)
+
+0322 002   vai a destra
+           00:34:20.705 - 00:34:21.935
+           (1.14)
+
+0323 001   vado a destra
+           00:34:23.080 - 00:34:24.410
+
+0324 002   e sali <lp> sali sali sali
+           00:34:24.605 - 00:34:26.565
+
+0325 001   aspetta devo pensare
+           00:34:26.525 - 00:34:27.045
+
+0326 002   la mia destra
+           00:34:27.025 - 00:34:27.705
+
+0327 001   eh eh sì perche devo pensare in+ inversamente e quindi <sp> ok e salgo?
+           00:34:27.705 - 00:34:33.285
+
+0328 002   sali sali sali
+           00:34:33.305 - 00:34:34.575
+
+0329 001   fino a un'altra immagine?
+           00:34:34.600 - 00:34:35.970
+
+0330 002   sì
+           00:34:35.985 - 00:34:36.440
+
+0331 002   <lp>
+           00:34:36.440 - 00:34:36.640
+
+0332 002   la squadra
+           00:34:36.640 - 00:34:37.700
+           (3.46)
+
+0333 002   è la tua destra!
+           00:34:41.160 - 00:34:42.700
+
+0334 001   ah! mi ha complicato la vi+
+           00:34:43.230 - 00:34:44.830
+
+0335 002   *ah sì allora è la tua destra
+           00:34:44.640 - 00:34:46.230
+
+0336 001   mi hai complicato la vita per tutta la vita
+           00:34:46.255 - 00:34:48.445
+
+0337 002   oh mamma mia <sp> la tua destra
+           00:34:49.440 - 00:34:51.620
+
+0338 001   ehm:
+           00:34:51.560 - 00:34:52.310
+
+0339 002   sali sa+ sali sali sali
+           00:34:52.395 - 00:34:53.955
+
+0340 001   salgo salgo salgo salgo ptptpt <canticchia> fino all'altra immagine
+           00:34:53.935 - 00:34:58.205
+
+0341 002   giri intorno all'ultima immagine che hai trovato
+           00:34:58.195 - 00:35:01.005
+
+0342 001   da/a/da destra?
+           00:35:01.160 - 00:35:03.260
+           (7.80)
+
+0343 001   ok dai
+           00:35:11.055 - 00:35:11.545
+
+0344 002   sali vai a sinistra
+           00:35:12.260 - 00:35:13.790
+           (2.17)
+
+0345 001   mia sinistra tua sinistra?
+           00:35:15.965 - 00:35:17.465
+
+0346 002   la mia sinistra quindi la tuaa: *destra
+           00:35:17.925 - 00:35:21.255
+
+0347 001   *destra
+           00:35:20.370 - 00:35:21.130
+           (4.28)
+
+0348 002   vai su su su cioè lo devi tipo fa+/ devi coprire tutta la squadra <lp> ok
+           00:35:25.540 - 00:35:32.340
+
+0349 001   quindi faccio un cerchio?
+           00:35:32.730 - 00:35:33.830
+
+0350 002   no no
+           00:35:33.840 - 00:35:34.690
+
+0351 001   ok faccio metà cerchio
+           00:35:34.795 - 00:35:36.315
+
+0352 002   fai una riga verso sinistra, cioè continua la tua riga
+           00:35:36.315 - 00:35:41.125
+
+0353 001   ok <laugh>
+           00:35:41.145 - 00:35:42.295
+
+0354 002   fermati
+           00:35:42.280 - 00:35:43.360
+
+0355 001   ok
+           00:35:44.030 - 00:35:44.360
+
+0356 002   vai giù
+           00:35:44.365 - 00:35:45.075
+
+0357 001   vado giù
+           00:35:45.100 - 00:35:46.260
+
+0358 002   dove hai ufficio o un'altra immagine che io non so
+           00:35:46.260 - 00:35:50.100
+
+0359 001   ehm: <lp> ok
+           00:35:51.000 - 00:35:53.390
+
+0360 002   poi <lp> uffici+ sali vai su  su su su su
+           00:35:53.435 - 00:35:57.915
+
+0361 001   aspetta dall'u- dall'ufficio poi?
+           00:35:58.095 - 00:36:00.075
+
+0362 002   che/ allora tu hai tre immagini <lp> insieme hai tre immagini cioè da a sinistra, la mia sinistra hai tre immagini
+           00:36:00.115 - 00:36:10.485
+
+0363 001   mhm
+           00:36:09.745 - 00:36:10.835
+
+0364 002   quindi vai giu <sp> la prima immagine <sp> che io ufficio tu non so tu cos'hai poi sal*i su
+           00:36:11.450 - 00:36:19.940
+
+0365 001   ma vado giù finchè non trovo un'altra immagine
+           00:36:19.865 - 00:36:22.295
+           (1.14)
+
+0366 002   se non ce l'hai sì
+           00:36:23.440 - 00:36:24.870
+           (1.80)
+
+0367 001   quindi non devo nè svoltare a destra nè a sinistra
+           00:36:26.675 - 00:36:29.905
+           (12.38)
+
+0368 002   andare sotto ufficio fare una curva verso sinistra sp poi salire lp fare fai una piccola curva/ è tutto mio
+           00:36:42.285 - 00:36:51.125
+
+0369 001   *mia sinistra tua sinistra?
+           00:36:48.375 - 00:36:49.545
+           (3.36)
+
+0370 002   alla tua sinistra
+           00:36:54.480 - 00:36:55.690
+
+0371 001   perfetto ok
+           00:36:55.695 - 00:36:56.475
+
+0372 002   vai su
+           00:36:56.485 - 00:36:57.285
+
+0373 001   ancora?
+           00:36:57.365 - 00:36:58.165
+
+0374 002   su su su
+           00:36:58.165 - 00:36:59.365
+
+0375 001   finchè non trovo un'altra immagine?
+           00:36:59.965 - 00:37:01.725
+
+0376 001   ok
+           00:37:02.215 - 00:37:03.065
+
+0377 001   che è la moto
+           00:37:03.605 - 00:37:04.675
+
+0378 002   anche la mia
+           00:37:04.720 - 00:37:05.310
+
+0379 001   ohh: abbiamo le immagini quasi uguali
+           00:37:05.335 - 00:37:07.355
+
+0380 001   forse
+           00:37:07.395 - 00:37:08.165
+
+0381 002   ho pure l'uomo con la barba
+           00:37:08.600 - 00:37:10.250
+
+0382 001   ehm no, io no. vicino a moto ho sarda.
+           00:37:10.505 - 00:37:14.555
+           (2.91)
+
+0383 002   tu sopra sopra cos'hai?
+           00:37:17.470 - 00:37:20.440
+
+0384 001   sopra sopra sopra moto?
+           00:37:20.515 - 00:37:22.565
+
+0385 002   allora c'è speker e mappa b <sp> sotto che immagine hai?
+           00:37:23.130 - 00:37:27.760
+
+0386 001   *eh sì
+           00:37:24.725 - 00:37:25.115
+
+0387 001   moto
+           00:37:28.250 - 00:37:28.810
+
+0388 002   moto ok
+           00:37:28.890 - 00:37:29.860
+
+0389 001   più sarda
+           00:37:29.920 - 00:37:31.120
+           (1.48)
+
+0390 002   ehh: dove siamo arrivati?
+           00:37:32.600 - 00:37:33.690
+           (3.35)
+
+0391 002   sei sopra ufficio cerchia /vai oltre l'uomo con la barba da su
+           00:37:37.040 - 00:37:43.020
+
+0392 001   *cerchio?
+           00:37:39.450 - 00:37:39.940
+
+0393 002   però tu non hai uomo con la barba hai un'altra immagine oltrepassa la tua immagine
+           00:37:43.245 - 00:37:47.815
+
+0394 001   ehm: sì ok poi?
+           00:37:47.865 - 00:37:52.615
+
+0395 002   *dall'alto
+           00:37:49.570 - 00:37:50.560
+           (5.43)
+
+0396 001   poi?
+           00:37:58.050 - 00:37:58.670
+
+0397 002   poi vai giù dalla macchina fotografica
+           00:37:58.830 - 00:38:01.700
+
+0398 001   dopo che ho fattoo:
+           00:38:01.725 - 00:38:04.305
+           (3.07)
+
+0399 002   dopo che hai fatto?
+           00:38:07.375 - 00:38:08.025
+
+0400 001   cioè dopo che
+           00:38:08.530 - 00:38:09.210
+
+0401 002   hai oltrepassato l'immagine così?
+           00:38:09.210 - 00:38:11.290
+
+0402 001   sì
+           00:38:11.610 - 00:38:11.860
+
+0403 002   eh! vai giu, giu giu giu fino a macchina fotografica
+           00:38:12.115 - 00:38:15.445
+
+0404 002   lp
+           00:38:15.455 - 00:38:16.380
+
+0405 002   se hai la macchina fotografica
+           00:38:16.380 - 00:38:17.590
+
+0406 001   sì
+           00:38:17.505 - 00:38:18.075
+           (1.63)
+
+0407 002   hai altre due immagini vincenzo e eh+
+           00:38:19.710 - 00:38:22.980
+           (1.66)
+
+0408 002   ehm
+           00:38:24.640 - 00:38:25.560
+           (1.54)
+
+0409 001   io non ho vincenzo
+           00:38:27.100 - 00:38:28.110
+
+0410 002   non hai vincenzo? cos'hai tu
+           00:38:28.125 - 00:38:29.445
+
+0411 001   allora io l'uomo con la barba e gli sbirri
+           00:38:30.095 - 00:38:32.445
+           (1.05)
+
+0412 002   mh
+           00:38:33.500 - 00:38:34.010
+
+0413 001   quindi da macchina fotografica vicino a macchina fotograficha ho un tipo con la barba chiamato uomo con la barba
+           00:38:34.358 - 00:38:39.948
+
+0414 002   ok
+           00:38:40.213 - 00:38:40.833
+
+0415 001   e uno vicino è sbirri e poi anche +++
+           00:38:41.033 - 00:38:44.013
+
+0416 002   *ho capito
+           00:38:41.483 - 00:38:42.133
+
+0417 002   hai macchina fotografica vai sotto uomo con la barba
+           00:38:44.008 - 00:38:47.118
+           (2.21)
+
+0418 001   da macchina fotografica vado sotto a uomo con la barba
+           00:38:49.333 - 00:38:51.483
+
+0419 002   sì <lp> poi sali hai sbirri?
+           00:38:51.498 - 00:38:55.248
+
+0420 001   sì
+           00:38:55.828 - 00:38:56.128
+
+0421 002   e la capra
+           00:38:56.488 - 00:38:57.328
+           (1.95)
+
+0422 001   s-sì
+           00:38:59.278 - 00:39:00.048
+
+0423 002   sì!
+           00:39:00.053 - 00:39:00.553
+
+0424 001   sì
+           00:39:00.653 - 00:39:01.263
+
+0425 002   ma vicini cioè uno sopa e uno sotto?
+           00:39:01.348 - 00:39:04.098
+
+0426 001   no
+           00:39:04.253 - 00:39:04.613
+
+0427 002   no
+           00:39:04.693 - 00:39:05.373
+
+0428 001   no
+           00:39:05.433 - 00:39:05.953
+
+0429 002   sotto ho abra kadabra
+           00:39:06.743 - 00:39:08.693
+           (1.28)
+
+0430 002   aah: ho capito ho capito. ok se è quello che ho capito io dovrebbe <lp> passi in mezzo agli sbirri e a abra kadabra <lp> oltrepassa abra kadabra
+           00:39:09.978 - 00:39:23.738
+
+0431 001   ook
+           00:39:24.618 - 00:39:25.138
+
+0432 002   vai giù
+           00:39:25.208 - 00:39:25.718
+
+0433 001   andiamo giù
+           00:39:26.413 - 00:39:27.993
+
+0434 002   hai la pizza?
+           00:39:28.233 - 00:39:29.253
+
+0435 001   sì
+           00:39:29.253 - 00:39:29.453
+
+0436 002   bene <laugh>
+           00:39:29.913 - 00:39:31.423
+
+0437 002   però sopra la pizza cos'hai?
+           00:39:31.818 - 00:39:33.678
+
+0438 001   ehm: capra
+           00:39:34.218 - 00:39:35.518
+
+0439 002   capra
+           00:39:35.658 - 00:39:36.248
+
+0440 001   e metà nulla
+           00:39:36.293 - 00:39:37.003
+
+0441 002   fai un giro intorno alla capra <lp> cerchiala tipo rotonda <lp> e vai giu sp fino a pizza.
+           00:39:37.028 - 00:39:46.348
+
+0442 001   fatto
+           00:39:47.038 - 00:39:47.578
+           (1.76)
+
+0443 002   oltrepassa pizza / la pizza
+           00:39:49.338 - 00:39:50.578
+
+0444 001   destra o sinistra? <sp> come voglio?
+           00:39:51.568 - 00:39:54.278
+
+0445 002   ee:: a sinistra
+           00:39:54.933 - 00:39:56.393
+
+0446 001   mia o tua?
+           00:39:56.563 - 00:39:57.073
+
+0447 002   mia
+           00:39:57.238 - 00:39:57.698
+
+0448 002   quindi tua
+           00:39:58.358 - 00:39:59.198
+           (1.52)
+
+0449 001   ehm: mia o tua?
+           00:40:00.718 - 00:40:02.798
+
+0450 002   mia
+           00:40:02.918 - 00:40:03.938
+
+0451 001   ok destra
+           00:40:03.968 - 00:40:05.148
+
+0452 002   si <sp> no <sp> boh
+           00:40:05.798 - 00:40:07.388
+           (1.08)
+
+0453 002   ok. hai oltrepassato pizza
+           00:40:08.463 - 00:40:10.823
+
+0454 001   sì
+           00:40:11.103 - 00:40:11.753
+
+0455 002   ha la sagre  delle castagne / buone
+           00:40:11.858 - 00:40:14.358
+
+0456 001   aspetta ehm: ce l'ho in fond+ cioè basso basso
+           00:40:15.228 - 00:40:18.318
+
+0457 002   ok tu sotto pizza cos'hai?
+           00:40:18.328 - 00:40:21.168
+
+0458 001   giri in boa vicino ho piccione
+           00:40:21.268 - 00:40:24.698
+
+0459 002   giri in boa?
+           00:40:24.783 - 00:40:25.893
+           (1.25)
+
+0460 002   passa sopra giri i boa vai giu giu giu
+           00:40:27.138 - 00:40:33.208
+
+0461 001   *sopra?
+           00:40:32.588 - 00:40:33.258
+
+0462 002   giri in boa
+           00:40:34.108 - 00:40:34.928
+
+0463 001   ook uuh: atà
+           00:40:34.918 - 00:40:36.428
+
+0464 002   da dove sei/ dove c'è la pizza vai sopra a giri in boa
+           00:40:36.428 - 00:40:39.828
+
+0465 001   ok
+           00:40:39.978 - 00:40:40.348
+
+0466 002   poi vai giu giu giu fino a un'immagine io ho la sarda
+           00:40:40.743 - 00:40:46.203
+
+0467 001   io ho targa
+           00:40:46.203 - 00:40:47.023
+           (1.09)
+
+0468 002   hai cosa
+           00:40:48.113 - 00:40:48.723
+
+0469 001   targa
+           00:40:48.928 - 00:40:49.538
+
+0470 002   ah <sp> ok
+           00:40:49.863 - 00:40:51.203
+
+0471 001   però non infodissimissimo
+           00:40:51.423 - 00:40:53.383
+
+0472 002   arrivi alla targa
+           00:40:52.143 - 00:40:53.293
+           (21.69)
+
+0473 002   vabbè comunque, siamo arrivati alla targa, tu hai larga
+           00:41:15.078 - 00:41:19.808
+
+0474 001   sì
+           00:41:19.883 - 00:41:20.153
+
+0475 002   vai a sinistra, la mia sinistra
+           00:41:20.178 - 00:41:22.608
+
+0476 001   destra
+           00:41:22.603 - 00:41:23.183
+
+0477 002   giusto sì. poi hai la bara e il piccione? hai la bara <sp> hai la bara hai il piccione?
+           00:41:24.076 - 00:41:29.016
+
+0478 001   *sì.  <lp> il pioccine è su vicino alla pizza
+           00:41:28.666 - 00:41:32.396
+
+0479 002   hai il comune di gurru
+           00:41:32.451 - 00:41:33.621
+           (1.07)
+
+0480 001   sì
+           00:41:34.691 - 00:41:35.251
+
+0481 002   vicino al comu+ / sinistra cos'hai?
+           00:41:35.394 - 00:41:37.654
+
+0482 002   <lp>
+           00:41:37.674 - 00:41:38.804
+
+0483 001   <lp>
+           00:41:37.674 - 00:41:38.804
+
+0484 002   *la mia sinistra
+           00:41:38.809 - 00:41:40.219
+
+0485 001   *la mia o la tua?* eh!
+           00:41:38.809 - 00:41:40.219
+
+0486 001   marca da bollo
+           00:41:40.454 - 00:41:41.904
+
+0487 002   marca da bollo
+           00:41:42.399 - 00:41:43.739
+
+0488 002   mh
+           00:41:43.909 - 00:41:44.239
+
+0489 001   mh
+           00:41:44.529 - 00:41:45.129
+
+0490 002   passa sotto marca da bollo
+           00:41:45.264 - 00:41:47.784
+
+0491 001   ok
+           00:41:47.644 - 00:41:48.374
+
+0492 002   vai giù e cerchia l'immagine che io ho la bara tu avrai qualcos'altro
+           00:41:48.369 - 00:41:53.389
+
+0493 002   penso
+           00:41:53.569 - 00:41:53.899
+
+0494 001   devo andare sotto marca da bollo?
+           00:41:54.004 - 00:41:55.964
+
+0495 002   <lp>
+           00:41:55.984 - 00:41:57.229
+
+0496 002   sì
+           00:41:57.229 - 00:41:57.419
+           (1.23)
+
+0497 001   ehm: ah! ok <sp> forse
+           00:41:58.644 - 00:42:01.344
+
+0498 002   eh
+           00:42:01.504 - 00:42:01.914
+
+0499 001   mh:, poi?
+           00:42:01.969 - 00:42:03.049
+
+0500 002   fai un cir+/ un cerchio intorno a <sp> a quell'immagine che hai al posto della bar+. <lp> arriva di nuovo a targa
+           00:42:03.454 - 00:42:11.504
+           (2.13)
+
+0501 001   ehm, ok
+           00:42:13.639 - 00:42:15.109
+
+0502 002   fai: esotto targa hai un'immagine?
+           00:42:15.544 - 00:42:17.964
+
+0503 001   sì <sp> *sagra della castagna*
+           00:42:18.844 - 00:42:21.484
+
+0504 002   *disastro
+           00:42:19.754 - 00:42:20.214
+           (1.19)
+
+0505 002   passa sotto la sagra della castagna
+           00:42:22.676 - 00:42:24.796
+
+0506 001   e quindi *io
+           00:42:24.896 - 00:42:25.476
+
+0507 002   *no stop
+           00:42:25.016 - 00:42:25.976
+
+0508 002   hai...
+           00:42:26.916 - 00:42:27.566
+
+0509 001   io sono già arrivata a finish
+           00:42:28.001 - 00:42:29.631
+
+0510 002   ouh
+           00:42:29.836 - 00:42:30.256
+
+0511 001   ihih
+           00:42:31.016 - 00:42:31.806
+           (1.88)
+
+0512 002   c'è qualquadra che non cosa
+           00:42:33.681 - 00:42:35.011
+           (10.06)
+
+0513 001   perchè da c+/ perche io ho un'immagine, no, dove è carta e sotto carta c'è finish
+           00:42:45.071 - 00:42:51.911
+
+0514 002   eh! io carta ce l'ho sopra finish
+           00:42:52.077 - 00:42:54.337
+
+0515 001   anch'io
+           00:42:54.437 - 00:42:55.427
+
+0516 002   però prima ho un'immagine sopra carta <sp> devi oltrepassare quell'immagine e poi arrivare a finish
+           00:42:55.592 - 00:43:03.052
+           (1.80)
+
+0517 001   <cough>
+           00:43:04.852 - 00:43:05.292
+           (1.14)
+
+0518 001   ohmiodio
+           00:43:06.432 - 00:43:07.052
+           (1.15)
+
+0519 002   ehm il guru
+           00:43:08.207 - 00:43:09.087
+
+0520 001   anch'io
+           00:43:09.307 - 00:43:10.117
+
+0521 002   *ah
+           00:43:11.052 - 00:43:11.522
+
+0522 001   *ok
+           00:43:11.052 - 00:43:11.522
+
+0523 002   ok
+           00:43:12.227 - 00:43:12.437
+
+0524 001   ok
+           00:43:12.652 - 00:43:13.092
+
+0525 001   ce l'abbiamo fatta, stranamente ma ce l'abbiam fatta
+           00:43:13.107 - 00:43:15.247
+           (29.26)
+
+0526 002   che è la giara
+           00:43:44.512 - 00:43:45.242
+           (1.64)
+
+0527 001   tu vicino a start hai giara?
+           00:43:46.887 - 00:43:48.337
+
+0528 002   sì
+           00:43:48.512 - 00:43:49.062
+
+0529 001   anch'io!
+           00:43:49.207 - 00:43:49.787
+
+0530 002   il start e+++/  hai il cane? <sp> ho due immagini il cane e la sciarpa
+           00:43:49.787 - 00:43:54.837
+
+0531 001   sì
+           00:43:51.822 - 00:43:52.292
+
+0532 001   mh
+           00:43:54.527 - 00:43:54.817
+           (1.20)
+
+0533 002   passa in mezzo il cane e la sciarpa
+           00:43:56.032 - 00:43:58.472
+
+0534 001   quindi vado di sopra
+           00:43:58.852 - 00:43:59.742
+
+0535 002   sì
+           00:43:59.967 - 00:44:00.437
+
+0536 001   ok dai forse ce l'abbiamo uguale <sp> cioè ohmiodio non penso
+           00:44:01.122 - 00:44:04.232
+
+0537 002   no. perche abbiamo iniziato anche quella:
+           00:44:04.242 - 00:44:06.772
+
+0538 001   *eh
+           00:44:06.777 - 00:44:07.227
+
+0539 002   uguali e poi
+           00:44:07.182 - 00:44:08.092
+
+0540 001   no
+           00:44:08.127 - 00:44:08.867
+
+0541 001   ehm poi?
+           00:44:09.177 - 00:44:10.107
+
+0542 002   fai un cerchio, non un cerchio, un semi cerchio sopra/ vai sopra sciarpa
+           00:44:10.292 - 00:44:14.852
+
+0543 001   ok
+           00:44:14.862 - 00:44:15.362
+
+0544 002   poi scendi
+           00:44:15.832 - 00:44:16.812
+
+0545 002   <lp>
+           00:44:16.832 - 00:44:17.572
+
+0546 002   vai giu
+           00:44:17.582 - 00:44:17.942
+
+0547 001   quindi vado sopra sciarpa poi riscendo
+           00:44:18.062 - 00:44:20.292
+
+0548 002   *e poi ri giù
+           00:44:19.532 - 00:44:20.172
+
+0549 002   sì
+           00:44:20.617 - 00:44:20.987
+
+0550 001   ok come fare un cerchio
+           00:44:21.192 - 00:44:22.632
+
+0551 002   dovresti avere la ladra e il topo gigio <sp>  due immagini
+           00:44:22.622 - 00:44:26.162
+
+0552 001   vicine sì <sp> però sotto sciarpa no
+           00:44:26.582 - 00:44:29.592
+           (1.11)
+
+0553 002   no non sotto sciarp+
+           00:44:30.697 - 00:44:32.167
+
+0554 001   vado a destra?
+           00:44:32.372 - 00:44:33.132
+
+0555 002   sì
+           00:44:33.282 - 00:44:33.552
+
+0556 001   eh
+           00:44:33.707 - 00:44:34.097
+
+0557 002   eh <sp> e passa tra la ladra e il topo gigio
+           00:44:34.302 - 00:44:36.852
+
+0558 001   ok
+           00:44:36.887 - 00:44:37.767
+
+0559 002   ok
+           00:44:38.227 - 00:44:38.937
+
+0560 002   vai su <sp> su su su
+           00:44:39.022 - 00:44:41.002
+
+0561 001   e dove passo da su?
+           00:44:41.302 - 00:44:42.192
+           (3.06)
+
+0562 002   hai passato la ladra e topo gigio? c'è la riga <sp> su a destra <sp> fai un cerchio intorno a un'immagine che è ciri
+           00:44:45.247 - 00:44:56.757
+
+0563 001   ciri <lp> ah ah
+           00:44:57.712 - 00:45:00.632
+
+0564 001   <lp>
+           00:45:00.647 - 00:45:01.937
+
+0565 001   poi?
+           00:45:01.942 - 00:45:02.372
+
+0566 002   mi son persa
+           00:45:02.642 - 00:45:04.232
+
+0567 001   dopo ciri?
+           00:45:04.657 - 00:45:05.427
+
+0568 002   hai fatto il cerchio intorno a ciri?
+           00:45:05.762 - 00:45:07.242
+
+0569 001   asapetta
+           00:45:07.582 - 00:45:08.372
+           (4.57)
+
+0570 001   poi?
+           00:45:12.937 - 00:45:13.287
+
+0571 002   e vai a sinistra
+           00:45:13.322 - 00:45:15.362
+
+0572 001   mia o tua?
+           00:45:15.962 - 00:45:16.672
+
+0573 002   mia
+           00:45:16.747 - 00:45:17.157
+
+0574 002   tutto mio
+           00:45:17.562 - 00:45:18.322
+
+0575 001   ok <sp> dopo?
+           00:45:19.072 - 00:45:20.272
+           (1.63)
+
+0576 002   sali <sp> aspetta aspetta asp+ fe+ fe+ fe+ fe+ ferma/ ti sei fermata? <sp> tu che immagine hai? io ho il burro la piazza la- la sacra di san michele e il rabarbaro di zuc+
+           00:45:21.902 - 00:45:32.242
+
+0577 001   dove? sopra a cirri?
+           00:45:32.267 - 00:45:33.517
+           (2.14)
+
+0578 002   sì
+           00:45:35.662 - 00:45:35.922
+
+0579 001   allora
+           00:45:36.422 - 00:45:36.932
+
+0580 002   non so+ cioè a sinistra di ciri <sp> sopra
+           00:45:36.937 - 00:45:40.007
+
+0581 001   ok allora ho bottarga di muggine ghiri pane piazza sacra di san michele
+           00:45:40.447 - 00:45:47.577
+
+0582 002   ok ne abbiamo solo due uguali
+           00:45:47.677 - 00:45:49.237
+           (3.79)
+
+0583 001   quindi?
+           00:45:53.022 - 00:45:53.572
+
+0584 002   hai piazza?
+           00:45:53.877 - 00:45:54.907
+
+0585 001   sì
+           00:45:55.102 - 00:45:55.682
+
+0586 002   in alto o in basso?
+           00:45:55.852 - 00:45:56.982
+
+0587 001   ehm vicino a cirri
+           00:45:57.557 - 00:45:58.967
+
+0588 002   perfetto perfetto <sp> passi in mezzo a piazza e all'altra immagine che hai
+           00:45:59.492 - 00:46:05.312
+
+0589 001   ah quindi non si va a destra
+           00:46:05.602 - 00:46:07.332
+
+0590 002   eh no a sinistra
+           00:46:08.122 - 00:46:09.142
+
+0591 001   eh mia
+           00:46:09.932 - 00:46:10.702
+
+0592 002   sì
+           00:46:11.447 - 00:46:11.747
+
+0593 002   vabbè *fai fai fai*
+           00:46:12.582 - 00:46:14.162
+
+0594 001   *dovevi dirlo prima*
+           00:46:13.792 - 00:46:15.552
+
+0595 002   *fai fai*
+           00:46:14.682 - 00:46:15.532
+
+0596 001   vabbè ho fatto qualcosa <sp> vai
+           00:46:15.797 - 00:46:19.277
+           (3.05)
+
+0597 002   ee: hai/ oltrepassa da sopra quell'immagine fai un cerchio intorno a rabarbaro di zucca
+           00:46:22.330 - 00:46:28.370
+
+0598 002   <lp>
+           00:46:28.380 - 00:46:31.210
+
+0599 002   no vabbè torna ai rabarbaro di zucca tu hai la sagra di san michele o qualcos'altro
+           00:46:31.245 - 00:46:35.765
+
+0600 002   <lp>
+           00:46:35.765 - 00:46:37.025
+
+0601 001   ok *quindi
+           00:46:36.265 - 00:46:37.035
+
+0602 002   la prima immagine che hai in *alto a sinistra*
+           00:46:37.025 - 00:46:39.025
+
+0603 001   *trapas+ cioè* vado avanti e non tocco nè sbarra nè piazza
+           00:46:38.316 - 00:46:42.996
+
+0604 002   come sarebbe bello farglielo vedere <laugh>
+           00:46:43.011 - 00:46:46.011
+
+0605 001   ok quindi ehm: vado vicino a piazzaa: e l'immagine vicino <lp> a piazza
+           00:46:46.991 - 00:46:53.901
+           (2.08)
+
+0606 001   bara
+           00:46:55.976 - 00:46:56.746
+
+0607 002   burro
+           00:46:57.701 - 00:46:58.391
+
+0608 001   bello
+           00:46:58.646 - 00:46:59.476
+
+0609 002   e fin qua ci siamo
+           00:46:59.631 - 00:47:00.701
+
+0610 001   quindi passo in *mezzo
+           00:47:01.026 - 00:47:01.896
+
+0611 002   *passa in mezzo
+           00:47:01.841 - 00:47:02.441
+
+0612 001   oo:k
+           00:47:02.471 - 00:47:03.091
+
+0613 002   ok
+           00:47:03.121 - 00:47:03.671
+
+0614 001   poi?
+           00:47:04.186 - 00:47:04.916
+
+0615 002   vai su: fai un cerchio intorno a rabarbaro di/ no +++ alla prima immagine che hai a sinistra
+           00:47:05.381 - 00:47:12.171
+           (3.77)
+
+0616 001   quindi vado a sinistra?
+           00:47:15.941 - 00:47:17.161
+
+0617 001   <lp> 
+           00:47:17.161 - 00:47:17.951
+
+0618 001   mia o tua?
+           00:47:17.966 - 00:47:18.786
+
+0619 002   mia <sp> tua mh
+           00:47:19.046 - 00:47:20.716
+           (6.53)
+
+0620 002   hai fatto il cerchio alla prima immagine in alto a sinistra MIA?
+           00:47:27.246 - 00:47:30.556
+
+0621 001   ehm: sì sì
+           00:47:31.436 - 00:47:32.586
+
+0622 002   ok
+           00:47:33.251 - 00:47:33.801
+
+0623 001   eh
+           00:47:34.676 - 00:47:34.976
+           (1.75)
+
+0624 001   che è sarta per me 
+           00:47:36.726 - 00:47:38.166
+           (1.91)
+
+0625 002   sì <lp> vai giù/ fa+ ha+ hai fatto il cerchio?
+           00:47:40.076 - 00:47:43.956
+
+0626 001   sì
+           00:47:44.166 - 00:47:44.336
+
+0627 002   allora vai giù ripass+ no, no ho sbagliato ferma <sp> vai giu passa sotto al burro però tu al posto di burro avevi
+           00:47:44.511 - 00:47:54.571
+
+0628 001   sbarra
+           00:47:54.571 - 00:47:55.171
+
+0629 002   sbarra <sp> vai sotto sbarra
+           00:47:55.451 - 00:47:57.291
+           (1.80)
+
+0630 001   mamma mia <sp> ok
+           00:47:59.091 - 00:48:01.511
+           (3.64)
+
+0631 001   che casino
+           00:48:05.151 - 00:48:05.661
+           (1.26)
+
+0632 002   ripassa vicino a piazza ma non sopra sotto <sp> sotto a piazza
+           00:48:06.926 - 00:48:11.576
+
+0633 001   ok
+           00:48:11.576 - 00:48:12.396
+           (1.24)
+
+0634 002   sì è un casino
+           00:48:13.631 - 00:48:14.371
+
+0635 001   ma siamo già passati sotto piazza
+           00:48:14.651 - 00:48:16.331
+
+0636 002   e tu ripassaci <laugh>
+           00:48:16.541 - 00:48:17.731
+           (1.16)
+
+0637 002   <laugh>
+           00:48:18.896 - 00:48:19.826
+
+0638 001   ok
+           00:48:18.896 - 00:48:19.826
+
+0639 002   vai su in alto <lp> alto alto alto alto alto
+           00:48:19.861 - 00:48:24.781
+
+0640 001   fino ad arrivare all'imagine?
+           00:48:24.786 - 00:48:26.236
+
+0641 002   sì
+           00:48:26.251 - 00:48:26.631
+
+0642 001   ok io ho pane
+           00:48:26.901 - 00:48:28.121
+
+0643 002   io ho sarta
+           00:48:28.481 - 00:48:29.341
+
+0644 001   bene 
+           00:48:29.391 - 00:48:29.861
+
+0645 002   fai un giro intorno a sarta e alla seconda immagine che trovi s+
+           00:48:30.106 - 00:48:34.116
+           (1.41)
+
+0646 001   aspè
+           00:48:35.526 - 00:48:36.166
+
+0647 002   aspetta <lp> tu hai pane sotto *pane cos' hai oltre la piazza?
+           00:48:36.596 - 00:48:41.706
+
+0648 001   sì*
+           00:48:39.031 - 00:48:39.141
+           (1.65)
+
+0649 001   bottarga di: <sp> muggine
+           00:48:43.361 - 00:48:45.001
+
+0650 002   sì sì <sp> perfetto
+           00:48:45.101 - 00:48:47.791
+
+0651 001   bene
+           00:48:48.536 - 00:48:48.986
+
+0652 002   cos'avevi al posto di sarta?
+           00:48:49.831 - 00:48:51.201
+
+0653 001   oh <sp> pane
+           00:48:51.356 - 00:48:51.946
+
+0654 002   <laugh> ok
+           00:48:51.931 - 00:48:52.801
+
+0655 002   <laugh>
+           00:48:52.816 - 00:48:53.526
+           (1.12)
+
+0656 002   fai il giro intorno al pane pane però/ e devi arrivare fino alla bot+ / dopo la borta+/  la bottarga
+           00:48:54.641 - 00:49:02.111
+           (5.21)
+
+0657 002   mh?
+           00:49:07.321 - 00:49:07.781
+
+0658 001   aspetta <sp> facciamo al contrario <lp> quindi dopo? <sp> dopo il giro?
+           00:49:08.001 - 00:49:15.591
+
+0659 002   dopo vai giù
+           00:49:16.276 - 00:49:17.286
+
+0660 001   vado giù <sp> quindi dopo bottarga di <lp> aspetta
+           00:49:17.491 - 00:49:21.411
+
+0661 002   allora tu devi oltrepassare bottarga e andare giù giù: fino a quando non trovi un'immagine
+           00:49:21.361 - 00:49:27.321
+           (1.41)
+
+0662 001   ok
+           00:49:28.731 - 00:49:29.651
+           (9.98)
+
+0663 001   poi?
+           00:49:39.636 - 00:49:40.336
+
+0664 002   <laugh> <sp> passi sotto l'immagine che hai trovato f+
+           00:49:40.736 - 00:49:44.866
+
+0665 001   quale? quella
+           00:49:45.556 - 00:49:46.986
+
+0666 002   alla capra hai una capra?
+           00:49:47.031 - 00:49:48.551
+
+0667 001   sì
+           00:49:48.571 - 00:49:48.791
+
+0668 002   vai sotto la capra
+           00:49:49.481 - 00:49:50.581
+
+0669 001   sotto la capraa:
+           00:49:51.041 - 00:49:52.081
+
+0670 002   la la capra
+           00:49:52.131 - 00:49:53.621
+
+0671 001   ok capra tipo boh vabbè +++
+           00:49:53.816 - 00:49:56.336
+
+0672 001   mh
+           00:49:56.706 - 00:49:57.196
+
+0673 002   adesso dovresti avere due immagini <sp> io ho una barca e una zanzara <sp> tu devi <lp> no no scusa aspetta <sp> cancella quello che ho detto
+           00:49:57.201 - 00:50:05.681
+
+0674 001   ok <laugh> da dove?
+           00:50:06.251 - 00:50:08.051
+
+0675 002   hai la capra
+           00:50:08.361 - 00:50:09.111
+
+0676 001   sì
+           00:50:09.236 - 00:50:09.546
+
+0677 002   sei passata sotto la capra a sinistra <lp> mia
+           00:50:09.553 - 00:50:13.093
+           (2.23)
+
+0678 001   quindi dovevo passare tipo sotto la capra a sinistra
+           00:50:15.323 - 00:50:18.423
+           (1.77)
+
+0679 002   sì
+           00:50:20.193 - 00:50:20.693
+           (1.81)
+
+0680 001   ok aspè *allora
+           00:50:22.503 - 00:50:23.413
+
+0681 002   di là
+           00:50:23.358 - 00:50:24.198
+
+0682 001   ehm sì ehm: <sp> ah di là ok *allora
+           00:50:24.348 - 00:50:27.758
+
+0683 002   * di là perchè è la mia + 
+           00:50:27.283 - 00:50:28.893
+
+0684 001   è la nostra
+           00:50:29.168 - 00:50:29.998
+
+0685 002   hai un'altra immagine
+           00:50:30.103 - 00:50:31.683
+
+0686 001   sì
+           00:50:32.193 - 00:50:32.813
+
+0687 002   cerchia quell'immagine
+           00:50:32.943 - 00:50:34.353
+
+0688 001   quella sotto capra?
+           00:50:34.748 - 00:50:35.918
+           (1.87)
+
+0689 002   hai cirri?
+           00:50:37.783 - 00:50:38.773
+
+0690 001   cirri ce l'hoo:...
+           00:50:39.728 - 00:50:40.838
+
+0691 002   sotto: cirri c'è un'immagine
+           00:50:40.893 - 00:50:42.653
+
+0692 001   sì
+           00:50:42.993 - 00:50:43.363
+
+0693 002   cos'hai?
+           00:50:43.568 - 00:50:43.928
+
+0694 001   ladra
+           00:50:44.148 - 00:50:44.738
+           (4.84)
+
+0695 002   ho sbagliato
+           00:50:49.573 - 00:50:51.273
+           (5.91)
+
+0696 002   io sotto capra ho barca
+           00:50:57.178 - 00:50:58.828
+
+0697 001   pure io
+           00:50:58.903 - 00:50:59.533
+
+0698 002   io perchè volevo dire sotto cirri 
+           00:50:59.808 - 00:51:01.528
+           (5.85)
+
+0699 002   tu hai la zanzara?
+           00:51:07.378 - 00:51:08.448
+
+0700 001   sì
+           00:51:08.473 - 00:51:09.013
+           (1.66)
+
+0701 002   dove ce l'hai la zanzara? <sp> non ce l'ha piu la zanzara
+           00:51:10.673 - 00:51:13.768
+
+0702 002   <lp>
+           00:51:13.768 - 00:51:20.998
+
+0703 001   <lp>
+           00:51:13.768 - 00:51:20.998
+           (2.18)
+
+0704 001   massì fallo a modo tuo
+           00:51:23.183 - 00:51:24.633
+
+0705 002   <sospira>
+           00:51:24.678 - 00:51:25.298
+           (1.16)
+
+0706 002   <bisbiglia<
+           00:51:26.458 - 00:51:28.478
+
+0707 002   ehm
+           00:51:28.888 - 00:51:29.753
+
+0708 002   <lp>
+           00:51:29.753 - 00:51:32.413
+
+0709 002   cerchia quell'immagine che hai sotto cirri <sp> no no no fe-fe-ferma/ devo riprendermi
+           00:51:32.413 - 00:51:38.413
+
+0710 002   <sp>
+           00:51:38.423 - 00:51:38.833
+
+0711 002   abbiamo capra passa sotto capra fai un cerchio sotto capra hai un immagine
+           00:51:38.848 - 00:51:43.308
+
+0712 001   sì barca
+           00:51:43.298 - 00:51:43.978
+
+0713 002   barca ok
+           00:51:44.148 - 00:51:45.138
+
+0714 001   *faccio un cerchio <sp> faccio un cerchio?*
+           00:51:45.593 - 00:51:47.403
+
+0715 002   *vicino a barca cos'hai? no no no no no*
+           00:51:45.948 - 00:51:49.228
+
+0716 001   ladra
+           00:51:49.433 - 00:51:49.963
+
+0717 002   ladra <sp> *cerchia la ladra
+           00:51:50.068 - 00:51:51.538
+
+0718 001   *anche abra* kadabra
+           00:51:50.593 - 00:51:52.103
+
+0719 002   cerchia la ladra <sp> no abra kadabra
+           00:51:52.928 - 00:51:56.388
+
+0720 001   ok <lp> quindi passo vicino a barca però non cerchio barca?
+           00:51:56.383 - 00:52:00.443
+
+0721 002   no! barca non la cerch+ 
+           00:52:00.453 - 00:52:02.128
+
+0722 001   ok passiamo da qui <sp> e cerchiamo abra kadabra
+           00:52:02.120 - 00:52:05.640
+
+0723 002   sotto *barca* cos'hai? sì!
+           00:52:05.680 - 00:52:07.315
+
+0724 001   *giusto?
+           00:52:06.135 - 00:52:06.495
+
+0725 002   <sp>
+           00:52:07.315 - 00:52:07.615
+
+0726 002   *sotto barca cos'hai?
+           00:52:07.655 - 00:52:08.815
+
+0727 001   *abra kadabra
+           00:52:07.655 - 00:52:08.815
+
+0728 001   e:
+           00:52:09.565 - 00:52:10.195
+
+0729 002   sotto la barca
+           00:52:10.190 - 00:52:10.770
+           (1.68)
+
+0730 001   ah eh rabarbaro <sp> zucca <lp> mh
+           00:52:12.450 - 00:52:16.300
+
+0731 002   eh! <lp> vai <lp> passa tra barca e rabarbaro di zucca
+           00:52:16.695 - 00:52:21.865
+
+0732 001   MHMH
+           00:52:22.505 - 00:52:23.155
+           (1.79)
+
+0733 002   fai il giro cioè passi in mezzo vai a sinistra oltrepassi un'immagine
+           00:52:24.950 - 00:52:30.870
+
+0734 001   des+ sinistra mia o tua?
+           00:52:30.870 - 00:52:32.590
+
+0735 002   mia quindi la tua destra
+           00:52:32.780 - 00:52:35.460
+
+0736 001   <laugh>
+           00:52:33.950 - 00:52:34.530
+
+0737 001   ecco ma poi?
+           00:52:35.610 - 00:52:36.890
+           (3.98)
+
+0738 002   passi sopra un'altra immagine che per me è la carne magra
+           00:52:40.870 - 00:52:44.090
+           (1.17)
+
+0739 001   mh <lp> ma sopra finish t+ cioè vicino a finish che cos'hai?
+           00:52:45.260 - 00:52:51.880
+
+0740 002   ghiri
+           00:52:52.060 - 00:52:52.610
+
+0741 001   <sussurra>
+           00:52:52.985 - 00:52:53.985
+
+0742 002   eh >sp< passi sopra carne magra e topo gigio
+           00:52:53.985 - 00:52:56.995
+
+0743 001   mh
+           00:52:57.445 - 00:52:58.575
+
+0744 002   poi vai giù <sp> giù giù giù
+           00:52:58.900 - 00:53:00.620
+
+0745 001   aspetta è andato qualcosa di storto <sp> <laugh> allora <cough> da barca cosa devo fare?
+           00:53:00.630 - 00:53:07.035
+
+0746 002   come da barca?
+           00:53:07.030 - 00:53:08.560
+
+0747 001   eh no perchè
+           00:53:08.935 - 00:53:09.905
+
+0748 002   vicino a barca hai un'immagine <lp> eh e io ho il muro <sp> tu cos'hai?
+           00:53:09.900 - 00:53:16.940
+
+0749 001   eh
+           00:53:12.620 - 00:53:13.230
+
+0750 001   <parla tra sè e sè>
+           00:53:16.985 - 00:53:23.295
+
+0751 001   abra kadabra
+           00:53:23.305 - 00:53:23.945
+
+0752 002   sei passata sotto abra kadabra <sp> devi passare sotto poi risalire per oltrepassare un'altra immagine
+           00:53:24.690 - 00:53:31.440
+           (1.95)
+
+0753 001   ok
+           00:53:33.390 - 00:53:34.150
+           (3.83)
+
+0754 002   carne magra <sp> carne magra e / car+
+           00:53:37.980 - 00:53:41.320
+
+0755 001   carne magra
+           00:53:41.400 - 00:53:42.210
+
+0756 002   oltrepassa carne magra e vai giù <sp> scendi
+           00:53:42.735 - 00:53:45.865
+
+0757 001   ok <sp> poi?
+           00:53:46.490 - 00:53:48.050
+
+0758 002   là trovi un'altra immagine
+           00:53:48.360 - 00:53:50.230
+
+0759 001   ok <sp> vado fino all'altra immagine?
+           00:53:50.225 - 00:53:53.065
+
+0760 002   sì e cerchi quell'immagine
+           00:53:53.295 - 00:53:55.745
+
+0761 001   cerchio <sp> cerchio <sp> cerchio <sp>  ok poi?
+           00:53:55.950 - 00:54:01.490
+
+0762 002   poi <lp> hai un'altra immagine alla fine?
+           00:54:01.820 - 00:54:05.980
+           (1.90)
+
+0763 001   sì
+           00:54:07.880 - 00:54:08.420
+
+0764 002   oltrepassa quell'immagine da sopra
+           00:54:09.070 - 00:54:11.410
+
+0765 001   mhmh
+           00:54:12.360 - 00:54:13.400
+
+0766 002   a sinist+ a sini+ dest+
+           00:54:12.920 - 00:54:14.560
+
+0767 001   sinistra?
+           00:54:15.120 - 00:54:15.890
+
+0768 002   passa vabbè l'hai passata vai giù
+           00:54:16.005 - 00:54:18.225
+
+0769 001   sì:
+           00:54:19.135 - 00:54:19.975
+
+0770 002   sali! <lp> sali
+           00:54:20.245 - 00:54:23.735
+
+0771 001   ah <sp> ah
+           00:54:24.010 - 00:54:25.150
+           (3.99)
+
+0772 002   deve arrivare ad un'immagine che io ho la salsiccia <lp> tu hai la salsiccia?
+           00:54:29.137 - 00:54:33.282
+           (4.00)
+
+0773 002   dopo la salsiccia deve fare il cerchio intorno a ghiri e arriva al finish
+           00:54:37.279 - 00:54:43.089
+           (2.27)
+
+0774 001   <sospira>
+           00:54:45.359 - 00:54:47.089
+           (2.14)
+
+0775 001   lago di garda
+           00:54:49.234 - 00:54:50.194
+
+0776 002   eh! sopra il lago di garda?
+           00:54:50.504 - 00:54:53.124
+           (2.60)
+
+0777 001   rabarbaro zucca
+           00:54:55.724 - 00:54:56.994
+
+0778 002   fai un cerchio intorno al rabarbaro di zucca e arrivi al finish
+           00:54:57.279 - 00:55:01.199
+
+0779 001   ok
+           00:55:01.889 - 00:55:02.489
+           (4.41)
+
+0780 002   e arrivi al finish
+           00:55:06.899 - 00:55:08.839
+           (20.17)
+
+0781 002   aspetta che devo trovare start
+           00:55:29.010 - 00:55:30.730
+
+0782 001   allora <sp> ci sono
+           00:55:30.760 - 00:55:32.010
+
+0783 002   dov'è start?
+           00:55:32.345 - 00:55:33.095
+
+0784 001   ehh: +++
+           00:55:33.680 - 00:55:34.640
+
+0785 002   ok l'ho trovato
+           00:55:34.650 - 00:55:35.830
+
+0786 001   ok trovato <sp> allora emh vai sopra
+           00:55:35.840 - 00:55:40.090
+
+0787 002   sopra
+           00:55:40.330 - 00:55:41.340
+
+0788 001   sopra start
+           00:55:41.365 - 00:55:42.465
+
+0789 002   sopra start ho squadra
+           00:55:42.555 - 00:55:44.215
+           (1.82)
+
+0790 001   hai squadra mh <sp> quindi allora <sp> te da start vai sopra e trovi/ hai un'immagine giusto?
+           00:55:46.035 - 00:55:54.485
+
+0791 002   mh
+           00:55:54.495 - 00:55:54.795
+
+0792 001   <breath> emh dopo quell'immagine devi fare un giro ehm <sp> per te è destra
+           00:55:54.805 - 00:56:01.845
+
+0793 002   ma io il giro cioè devo f-fare il giro intorno a quest'immagine?
+           00:56:01.855 - 00:56:05.865
+
+0794 001   no allora vest+ vai  *a start
+           00:56:06.075 - 00:56:09.165
+
+0795 002   *allora facciamo una riga
+           00:56:08.610 - 00:56:09.940
+
+0796 001   vai su:
+           00:56:10.155 - 00:56:11.045
+
+0797 002   vado su
+           00:56:11.870 - 00:56:12.680
+
+0798 001   e poi dopo quest'immagine
+           00:56:13.025 - 00:56:14.695
+
+0799 002   tu su quante immagini hai?
+           00:56:14.745 - 00:56:16.225
+
+0800 001   su? ehm <cough> un casino
+           00:56:16.835 - 00:56:18.285
+
+0801 002   a destra <sp< la mia destra
+           00:56:18.265 - 00:56:19.835
+
+0802 001   eh
+           00:56:19.880 - 00:56:20.500
+
+0803 002   quante immagini hai?*
+           00:56:20.570 - 00:56:21.420
+
+0804 001   la tua destra è la mia sinistra <sp< allora vicino a start a sinistra ho ufficio
+           00:56:21.255 - 00:56:26.845
+
+0805 002   eh! e sopra?
+           00:56:27.135 - 00:56:28.375
+
+0806 001   eh e sopra <lp> eh sopra a ufficio?
+           00:56:28.605 - 00:56:33.455
+
+0807 002   sì
+           00:56:33.455 - 00:56:33.935
+
+0808 001   ho moto
+           00:56:33.935 - 00:56:35.045
+
+0809 002   ok <sp> io devo arrivare a moto o devo oltrepassare ufficio?
+           00:56:35.240 - 00:56:38.470
+           (2.07)
+
+0810 001   aspetta te devi essere a start e devi andare di sopra a start
+           00:56:40.540 - 00:56:44.810
+
+0811 002   e sono sopr+
+           00:56:44.790 - 00:56:45.490
+
+0812 001   fai una linea lì sopra poi quando arrivi all'immagine ehm <sp> dove hai fatto la riga tipo avrai un'immagine no? dov'è sarda da te?
+           00:56:45.490 - 00:56:53.840
+           (1.79)
+
+0813 002   <breath> aspetta <breath> allo <lp> dici a sin+ dici a destra? la tua sinistra
+           00:56:55.630 - 00:57:02.980
+
+0814 001   no:! quando vai sopra a start che immagine hai?
+           00:57:03.200 - 00:57:06.670
+
+0815 002   la/ <sp> ufficio <sp> questo <sp> qua <sp> eh
+           00:57:06.970 - 00:57:12.030
+
+0816 001   <laugh>
+           00:57:12.090 - 00:57:13.710
+
+0817 001   fai: u:n giro non non un cerchio ma fai tipo <sp> come se fosse: <lp> ehm come ti posso spiegare <sp> tipo
+           00:57:13.725 - 00:57:25.615
+
+0818 002   un semicerchio
+           00:57:25.620 - 00:57:26.630
+
+0819 001   sì! a destra e vai s+ <sp> te che immagine hai sopra uff+ il mio ufficio?
+           00:57:26.775 - 00:57:33.225
+
+0820 002   la targa <lp> che il tuo ufficio è la mia squadra
+           00:57:33.720 - 00:57:37.230
+
+0821 001   <breath> no io sopra start ho sarda
+           00:57:37.480 - 00:57:41.750
+           (1.05)
+
+0822 002   allo+
+           00:57:42.805 - 00:57:44.065
+
+0823 001   quando fai il giro <sp> su sarda
+           00:57:44.475 - 00:57:47.635
+           (10.16)
+
+0824 001   quindi
+           00:57:57.800 - 00:57:58.460
+
+0825 002   e io devo oltrepassare la sarda?
+           00:57:58.500 - 00:58:01.570
+           (1.37)
+
+0826 001   no: <sp> devi girare
+           00:58:02.935 - 00:58:04.335
+
+0827 002   eh sì ho capì
+           00:58:04.455 - 00:58:05.235
+
+0828 001   devi girare <sp> nella tua <breath> aspetta eh perchè adesso è difficile allora non so come spiegarti tipo nella mia <sp> sinistra quindi è destra
+           00:58:05.405 - 00:58:16.755
+
+0829 002   come adesso
+           00:58:16.850 - 00:58:17.680
+
+0830 001   per te
+           00:58:17.675 - 00:58:17.975
+
+0831 002   ah!
+           00:58:18.595 - 00:58:19.085
+           (1.10)
+
+0832 001   quindi nella tua destra <sp< devi fare così
+           00:58:20.184 - 00:58:22.693
+           (2.49)
+
+0833 002   e quindi targa non lo passo
+           00:58:25.184 - 00:58:27.191
+           (1.20)
+
+0834 001   no targa non lo no no no 
+           00:58:28.391 - 00:58:29.956
+
+0835 002   cioè la tua sarda non lo passo
+           00:58:30.310 - 00:58:32.509
+
+0836 001   ci vai sopra ci vai sopra
+           00:58:30.310 - 00:58:32.509
+
+0837 002   eh! sì
+           00:58:33.199 - 00:58:33.988
+
+0838 001   ci vai sopra
+           00:58:33.199 - 00:58:33.988
+           (4.50)
+
+0839 001   allora devi andare sopra sarda <sp> andare alla mia sinistra cioè alla tua destr
+           00:58:38.489 - 00:58:44.794
+
+0840 002   vabbè la sinistra e la *destra:
+           00:58:44.901 - 00:58:46.926
+
+0841 001   poi andare sotto: <sp> io ho moto
+           00:58:46.753 - 00:58:50.206
+
+0842 002   sì:
+           00:58:50.451 - 00:58:51.078
+           (1.08)
+
+0843 001   te che immagine hai?
+           00:58:52.155 - 00:58:53.248
+
+0844 002   moto
+           00:58:53.237 - 00:58:53.802
+
+0845 001   bene sotto moto <sp> poi: ehm sotto cioè <sp> sotto moto che immagine hai?
+           00:58:53.927 - 00:59:02.524
+           (1.02)
+
+0846 002   l'ufficio e un uomo con la barba
+           00:59:03.546 - 00:59:06.074
+
+0847 001   ok allora l'uomo con la ba:arba vai tipo
+           00:59:06.445 - 00:59:10.625
+
+0848 002   aspetta ma tu moto hai uff+/ è qua moto qua è uomo con la barba e qua è ufficio
+           00:59:10.628 - 00:59:16.311
+
+0849 001   allora a me qua è moto qua è ufficio e qua è <sp> un altro tipo
+           00:59:16.936 - 00:59:22.041
+
+0850 002   ok
+           00:59:22.013 - 00:59:22.367
+           (4.09)
+
+0851 001   da qui vai sotto moto e poi oltrepassi il tuo uomo con la barba
+           00:59:26.455 - 00:59:31.567
+
+0852 002   ok capito
+           00:59:31.580 - 00:59:32.481
+
+0853 001   da sopra
+           00:59:32.482 - 00:59:33.028
+
+0854 002   sì
+           00:59:33.314 - 00:59:33.891
+
+0855 001   ok! e poi vai giù finchè non trovi un'altra immagine
+           00:59:34.176 - 00:59:37.698
+
+0856 002   ho tre immagini <laugh>
+           00:59:38.564 - 00:59:40.658
+
+0857 001   hai la macchina fotografica?
+           00:59:40.662 - 00:59:41.867
+
+0858 002   sì
+           00:59:41.871 - 00:59:42.163
+
+0859 001   ecco
+           00:59:42.164 - 00:59:42.835
+
+0860 002   ma dove ce l'hai tu la macchina fotografica?
+           00:59:42.840 - 00:59:44.766
+
+0861 001   penso dove ce l'hai tu <sp> vicino a: l'uom+
+           00:59:44.806 - 00:59:48.086
+
+0862 002   no no <sp> dimmi destra o sinistra
+           00:59:48.090 - 00:59:50.016
+
+0863 001   cosa? la macchina* fotografica?
+           00:59:50.490 - 00:59:52.702
+
+0864 002   *sì
+           00:59:52.010 - 00:59:52.389
+
+0865 001   hai/ sai la linea che abbiamo fatto? fino a lì
+           00:59:52.856 - 00:59:55.626
+
+0866 002   ah ok
+           00:59:55.624 - 00:59:56.238
+
+0867 001   poi emh <sp> dopo vai a destra <sp> la tua
+           00:59:57.066 - 01:00:02.415
+
+0868 002   sssì: <sp> sì
+           01:00:02.612 - 01:00:05.004
+
+0869 001   vai a destra poi vai anc+ ++  <sp> fai un tipo di cerchio <lp> però:
+           01:00:05.498 - 01:00:10.870
+
+0870 002   intorno a vincenzo marra <lp< che tu non avrai vincenzo marra ma n+
+           01:00:10.877 - 01:00:15.306
+
+0871 001   è una macchina fotografica
+           01:00:15.293 - 01:00:16.709
+
+0872 002   ah intorno a macchina fotografica
+           01:00:16.883 - 01:00:18.213
+
+0873 001   però non un cerchio cerchioso, metà cerchio <lp> semicerchio  
+           01:00:18.324 - 01:00:21.534
+           (2.53)
+
+0874 002   fatto
+           01:00:24.064 - 01:00:24.834
+
+0875 001   mh mh <sp> poi: ehm passa tra macchina fotografica che per me è uom+/ chi hai che cos'hai vicino a macchina fotografica? 
+           01:00:24.950 - 01:00:33.920
+
+0876 002   vincenzo marra
+           01:00:33.931 - 01:00:34.881
+
+0877 001   ecco passa tra macchina fotografica e *vincenzo marra*
+           01:00:34.885 - 01:00:38.264
+
+0878 002   ah ok capito capito
+           01:00:37.335 - 01:00:39.571
+
+0879 001   quando sei sopra vincenzo marra/vai sopra vincenzo marra/ ehm dopo: vai su te hai detto che sotto moto avevi uomo con la barba <sp> giusto?
+           01:00:39.538 - 01:00:50.436
+
+0880 002   sì
+           01:00:50.438 - 01:00:50.867
+
+0881 001   ecco <sp> vai sotto uo- uomo con la barba fai un tipo di cerchio
+           01:00:51.058 - 01:00:55.928
+
+0882 002   ma! <lp> no allora il mio è ufficio
+           01:00:55.933 - 01:00:59.349
+           (1.23)
+
+0883 001   deciditi <sp> è ufficio o uomo con la barba
+           01:01:00.583 - 01:01:02.490
+
+0884 002   tu in sotto moto intendi quello proprio sotto o quello un po' a sinistra? >lp> allora devo fare <sp> ho capito ho capito
+           01:01:02.657 - 01:01:10.506
+
+0885 001   fai un cerchio <sp> quello proprio sotto sotto sotto moto
+           01:01:10.518 - 01:01:13.705
+
+0886 002   sì sì
+           01:01:13.711 - 01:01:14.897
+
+0887 001   dopo vaa:i <sp> vai tra tuo vincenzo marra e i sb+ e: che *cos'hai ?* sì 
+           01:01:14.897 - 01:01:22.745
+
+0888 002   *sbirri
+           01:01:21.667 - 01:01:22.281
+
+0889 001   <lp>
+           01:01:22.747 - 01:01:24.939
+
+0890 001   te vicino a vincenzo mari hai sbirri? <lp> giusto? 
+           01:01:24.943 - 01:01:27.592
+
+0891 002   *sì
+           01:01:27.199 - 01:01:27.553
+
+0892 001   ok bene ehm quando sei arrivata tipo <sp> che cos'hai sotto vincenzo marra?
+           01:01:27.664 - 01:01:36.620
+           (1.39)
+
+0893 002   psichiatra
+           01:01:38.009 - 01:01:38.723
+
+0894 001   ok allora anche io ce l'ho così <sp> ehm fai un cerchio
+           01:01:39.341 - 01:01:43.620
+
+0895 002   intorno a pissichiatra
+           01:01:43.844 - 01:01:45.099
+
+0896 001   sì
+           01:01:45.149 - 01:01:45.683
+           (2.15)
+
+0897 002   ma dal basso o dall'alto il cerchio? <lp> ok <laugh>
+           01:01:47.836 - 01:01:51.973
+           (2.84)
+
+0898 002   fatto
+           01:01:54.812 - 01:01:55.638
+
+0899 001   poi quando: <sp> te sotto sbirri che cos'hai? non proprio sotto sotto ma tipo così <sp< qua c'è sbirri e qua c'hai qualcos'altro
+           01:01:55.870 - 01:02:03.597
+
+0900 002   ho capito la capra
+           01:02:03.603 - 01:02:04.976
+
+0901 001   anche te hai capra lì? bene!
+           01:02:04.981 - 01:02:06.689
+
+0902 002   *tu hai so+
+           01:02:06.692 - 01:02:07.139
+
+0903 001   *vai sotto capra sì io ho abra kadabra
+           01:02:06.710 - 01:02:08.964
+
+0904 001   <lp>
+           01:02:08.972 - 01:02:09.090
+
+0905 001   te vai sotto capra
+           01:02:09.091 - 01:02:10.246
+           (1.06)
+
+0906 001   poi:
+           01:02:11.305 - 01:02:11.951
+
+0907 002   ma aspetta
+           01:02:11.951 - 01:02:12.752
+
+0908 001   ok
+           01:02:13.009 - 01:02:13.382
+
+0909 002   ok <sp> vai 
+           01:02:13.387 - 01:02:14.187
+
+0910 001   ah: arrivi a un'altra immagine
+           01:02:14.190 - 01:02:16.470
+
+0911 002   la pizza
+           01:02:16.466 - 01:02:17.131
+           (1.21)
+
+0912 001   però ehm <sp> da sotto vai sotto capra devi andare così
+           01:02:18.345 - 01:02:22.322
+
+0913 002   ah ah <sp> capito <sp> capito
+           01:02:22.313 - 01:02:24.742
+
+0914 001   quindi fai un cerchio sull'immagine che hai qui
+           01:02:25.537 - 01:02:28.053
+
+0915 002   capito capito
+           01:02:28.254 - 01:02:29.341
+
+0916 001   quasi vicino ad abra kadabra
+           01:02:29.430 - 01:02:31.138
+
+0917 002   tu cos'hai? <sp> sì sì sì
+           01:02:31.185 - 01:02:33.428
+
+0918 001   da abra ehg la mia è abra kadabra poi ehm dove ti ho detto di fare cerchio io ho capra
+           01:02:33.429 - 01:02:39.354
+
+0919 002   ok
+           01:02:39.359 - 01:02:40.043
+
+0920 001   po:i dopo che fai il cerchio vai sotto <sp> tra: pizza e piccione per me 
+           01:02:40.052 - 01:02:46.483
+
+0921 002   capito
+           01:02:46.474 - 01:02:47.064
+
+0922 001   ce l'hai uguale?
+           01:02:47.181 - 01:02:47.926
+
+0923 002   no ho arpa
+           01:02:48.180 - 01:02:49.236
+
+0924 001   ok però hai capito <laugh> poi fai un cerchio quello che hai sotto la pizza quindi pizza e qua c'è il- io ho giri in boa di boa
+           01:02:49.270 - 01:02:58.726
+
+0925 002   <laugh>
+           01:02:49.854 - 01:02:50.500
+
+0926 002   ah! capito capito
+           01:02:57.276 - 01:02:58.611
+
+0927 002   io ho sagra delle castagne
+           01:02:59.650 - 01:03:01.452
+
+0928 001   ook
+           01:03:01.153 - 01:03:02.141
+
+0929 002   faccio un cerchio o un semicerchio?
+           01:03:02.206 - 01:03:03.945
+
+0930 001   un cerchio
+           01:03:04.322 - 01:03:05.198
+
+0931 002   un cerchio
+           01:03:04.586 - 01:03:05.145
+           (1.79)
+
+0932 001   dai sembra promettere bene
+           01:03:06.990 - 01:03:08.624
+           (1.03)
+
+0933 002   sì...
+           01:03:09.651 - 01:03:10.023
+
+0934 001   adesso va tutto male
+           01:03:10.020 - 01:03:11.070
+
+0935 002   <laugh>
+           01:03:10.706 - 01:03:11.035
+
+0936 001   dopo che vai in giri in boa ehm poi fai/ quando hai fatto il cerchio  vai tra <sp> quello sotto piccione e quello sotto giri in boa quindi io ho guru e marca da bollo
+           01:03:11.700 - 01:03:24.089
+
+0937 002   anch'io ho guru e marca da bollo
+           01:03:24.867 - 01:03:26.712
+
+0938 001   ok vai tra quelli
+           01:03:26.920 - 01:03:27.877
+
+0939 002   ah! <sp> *tra loro due?*
+           01:03:28.318 - 01:03:29.654
+
+0940 001   fai così e fai così
+           01:03:28.836 - 01:03:30.209
+
+0941 002   eh!
+           01:03:30.871 - 01:03:31.331
+
+0942 001   ah! eh
+           01:03:31.846 - 01:03:32.548
+
+0943 002   eh
+           01:03:32.784 - 01:03:33.064
+
+0944 002   già sono arrivata al finish
+           01:03:33.540 - 01:03:34.758
+           (1.41)
+
+0945 001   mh sei vicino però do-dov-de-da-devi andare sotto marca da bollo
+           01:03:36.164 - 01:03:40.591
+
+0946 002   ok
+           01:03:40.589 - 01:03:41.192
+           (1.25)
+
+0947 001   e poi te sicuramente avrai tipo due immagini vicino
+           01:03:42.439 - 01:03:46.267
+
+0948 002   sì sarda e giri di boa
+           01:03:46.296 - 01:03:48.489
+
+0949 001   bene da quando vai sotto marca da bollo devi andare tipo un pochetto <sp> un pochetto e devi girare alla tua destra <lp> quindi <sp> la tua
+           01:03:48.612 - 01:03:59.879
+
+0950 002   eh ma quindi se faccio un cerchio intor+
+           01:04:00.145 - 01:04:02.485
+
+0951 001   no! devi fare così <sp> devi andare soopra aalla tua sarda
+           01:04:02.495 - 01:04:05.825
+
+0952 002   ah ho capito capito
+           01:04:05.875 - 01:04:07.075
+
+0953 001   capito capito +++ capisti <sp> sono felice hai capito
+           01:04:07.215 - 01:04:10.785
+
+0954 002   *mamma mia
+           01:04:08.230 - 01:04:08.840
+
+0955 002   poi
+           01:04:10.795 - 01:04:11.215
+
+0956 001   poi quando arrivi a sarda devi andaree: devi faree: <sp> che immagine hai? <sp> sicuramente avrai un'immagine sola soletta lì
+           01:04:11.355 - 01:04:19.055
+
+0957 002   sì
+           01:04:19.065 - 01:04:19.425
+
+0958 001   ecco! <sp> che è?
+           01:04:19.445 - 01:04:20.635
+
+0959 002   la bara
+           01:04:20.760 - 01:04:21.390
+
+0960 001   anch'io <breath> quindi fai il cerchio nella bara
+           01:04:21.505 - 01:04:24.095
+
+0961 002   <laugh>
+           01:04:24.452 - 01:04:31.992
+
+0962 001   <laugh>
+           01:04:24.452 - 01:04:31.992
+
+0963 001   ehm quando hai fatto il cerchio tipo visto che l'avrai fatto da su
+           01:04:32.812 - 01:04:37.492
+
+0964 002   sì
+           01:04:37.932 - 01:04:38.362
+
+0965 001   da/è così diventerebbe così giusto?
+           01:04:38.377 - 01:04:40.937
+
+0966 002   sì
+           01:04:40.937 - 01:04:41.217
+
+0967 001   ok da lì vai/ te che cos'hai sotto sarda?
+           01:04:41.227 - 01:04:45.237
+
+0968 002   giri di boa
+           01:04:45.432 - 01:04:46.202
+
+0969 001   eh ie: ptpt/ daa: *bara 
+           01:04:46.407 - 01:04:49.637
+
+0970 002   *devo passare in mezzo alle due immagini?
+           01:04:49.032 - 01:04:51.052
+
+0971 001   *no* devi andare sotto giri di boa
+           01:04:50.342 - 01:04:53.002
+
+0972 002   ah ah
+           01:04:53.002 - 01:04:53.412
+
+0973 001   e arrivi al finish <lp> sì
+           01:04:53.797 - 01:04:56.557
+           (40.85)
+
+0974 001   allora te hai un'immagine sotto start vero?
+           01:05:37.402 - 01:05:39.832
+
+0975 002   giara
+           01:05:39.787 - 01:05:40.377
+
+0976 001   giara ok il nostro start è giara quindi start è un falso start e giara è il nostro start <lp> eh sì
+           01:05:40.372 - 01:05:48.052
+
+0977 002   ah sì l'ho capita l'ho capita <sp> sì sì
+           01:05:48.062 - 01:05:51.042
+
+0978 001   allora da giara andiam ehm devo parlare al contrario tipo <sp> andiamo nella tua: de:stra
+           01:05:51.042 - 01:05:59.832
+
+0979 002   mh mh <lp> questa <lp> sì questa è la mia destra 
+           01:05:59.832 - 01:06:04.752
+
+0980 001   sì <sp> andiamo così poi andiamo su <sp> abbastanza
+           01:06:04.757 - 01:06:10.107
+
+0981 002   abbastanza
+           01:06:10.437 - 01:06:11.357
+           (1.44)
+
+0982 001   ok <sp> sai ehm/te che immagine hai sopra start falso?
+           01:06:12.797 - 01:06:17.017
+
+0983 002   canee: <sp< cane
+           01:06:17.897 - 01:06:19.237
+
+0984 001   cane <sp> ok vai tipo sopra cioè vai così <sp> vai vicino al cane!
+           01:06:19.237 - 01:06:25.037
+
+0985 002   <laugh>
+           01:06:25.037 - 01:06:26.957
+
+0986 001   e: poi ehm vai sopra al cane
+           01:06:25.777 - 01:06:28.237
+           (6.26)
+
+0987 001   quando quando sei sopra al cane vai giu passi tra il cane e un'altra immagine che hai <sp> che è?
+           01:06:34.497 - 01:06:40.737
+
+0988 002   aspetta <lp> ma io per andare su sono passata tra il cane e la sciarpa
+           01:06:41.407 - 01:06:46.497
+
+0989 001   non dovevi passare là!
+           01:06:46.677 - 01:06:47.407
+
+0990 002   non dovevo passare là
+           01:06:47.412 - 01:06:48.192
+
+0991 001   dovevi passare da:
+           01:06:48.262 - 01:06:49.352
+
+0992 002   da sotto!
+           01:06:49.347 - 01:06:49.837
+
+0993 001   da là <sp> no
+           01:06:49.832 - 01:06:51.072
+           (1.47)
+
+0994 002   eh ok eh come faccio?
+           01:06:52.537 - 01:06:54.097
+
+0995 001   <laugh>
+           01:06:54.197 - 01:06:57.287
+
+0996 002   <laugh>
+           01:06:54.197 - 01:06:57.477
+
+0997 001   che situazioni <sp> cioè che + c'è
+           01:06:57.287 - 01:06:59.477
+           (11.65)
+
+0998 001   si andata sopra cane?
+           01:07:11.127 - 01:07:12.907
+
+0999 002   sì sono sopra cane
+           01:07:13.147 - 01:07:14.057
+
+1000 001   ecco deviandare in mezzo tra cane e una *immagine 
+           01:07:14.052 - 01:07:17.417
+
+1001 002   *c'ero già passata
+           01:07:17.137 - 01:07:17.957
+
+1002 001   che è?
+           01:07:17.967 - 01:07:18.797
+
+1003 002   sciarpa
+           01:07:18.792 - 01:07:19.442
+           (5.14)
+
+1004 001   allora devi andare da <sp> DEVI ANDARE IN MEZZO
+           01:07:24.577 - 01:07:28.277
+
+1005 002   *siamo rinchiuse qui
+           01:07:25.725 - 01:07:26.626
+
+1006 002   e ci sono passata in mezzo
+           01:07:28.455 - 01:07:29.615
+
+1007 001   ecco vai sotto sciarpa
+           01:07:29.615 - 01:07:31.615
+
+1008 002   *+++ abbiamo sbagliato
+           01:07:29.630 - 01:07:31.584
+
+1009 002   andiamo sotto sciarpa
+           01:07:31.627 - 01:07:32.849
+
+1010 001   poi quando vai sotto sciarpa <sp> devi andare tipo sciarpa uhi <sp> così
+           01:07:33.405 - 01:07:40.153
+
+1011 002   ho capito <sp> suu:
+           01:07:40.335 - 01:07:42.068
+
+1012 001   sì abbastanza
+           01:07:42.053 - 01:07:43.282
+
+1013 002   *abbastanza
+           01:07:43.646 - 01:07:44.410
+
+1014 001   *però
+           01:07:43.646 - 01:07:44.410
+
+1015 001   ok ehm te che immagine hai tipo:...
+           01:07:44.752 - 01:07:47.554
+
+1016 002   tipo?
+           01:07:48.166 - 01:07:48.632
+
+1017 001   tipo quando fai così
+           01:07:48.851 - 01:07:49.729
+
+1018 002   quando vao su ho il burro
+           01:07:50.048 - 01:07:51.307
+
+1019 001   sì
+           01:07:50.735 - 01:07:51.078
+
+1020 001   bene allora non devi passare dal burro devi andare <sp> quando fai così poi così devi fare tipo un' "ondulazione" per andare all'imagine sopra <lp> che è quella...
+           01:07:51.677 - 01:08:05.616
+
+1021 002   *non passiamo dal burro non ci piace il burro
+           01:07:53.188 - 01:07:55.180
+
+1022 002   ao+  ladra
+           01:07:57.941 - 01:07:59.331
+
+1023 002   ma un'immagine che ho qua <lp> qua!
+           01:08:05.629 - 01:08:07.713
+
+1024 001   allora te vai a sciarpa giusto?
+           01:08:07.722 - 01:08:09.653
+
+1025 002   ho sciarpa <sp> sono+
+           01:08:09.658 - 01:08:10.879
+
+1026 001   DEVI PASSARE TRA SCIARPA e il tuo burro quindi qui è sciarpa e qui c'è un'altra immagine che penso che sia il burro
+           01:08:10.880 - 01:08:17.239
+
+1027 002   ok quindi <sp> ti ho capito ti ho capito
+           01:08:17.467 - 01:08:20.062
+
+1028 001   devi passare in mezzo devi andare di sopra FINCHE' non trovi un'altra immagine
+           01:08:18.410 - 01:08:22.830
+           (1.29)
+
+1029 001   io ho la sarta
+           01:08:24.117 - 01:08:24.903
+
+1030 002   io ho rabarbaro zucca
+           01:08:24.950 - 01:08:26.049
+
+1031 001   allora devi fare un giro ehm cioè un cerchio a rabarbaro di zucca ehm se vuoi anche eh <laugh> no dai uno quando hai fatto no aspè mi son confusa ok dai  quando fattquando hai fatto il primo giro devi passare sopra la sarta quindi devi fare un tipo di altro giro ma non un altro giro
+           01:08:26.084 - 01:08:48.232
+
+1032 002   capito
+           01:08:49.005 - 01:08:49.608
+
+1033 001   e: devi vicino alla a rabarbaro di zucca
+           01:08:50.238 - 01:08:54.399
+
+1034 002   ho sagra sacra di san michele
+           01:08:55.021 - 01:08:57.132
+
+1035 001   perfetto! devi passare tra rabarbaro di zucca e sacra di san michele
+           01:08:57.135 - 01:09:01.444
+
+1036 002   mh <sp> sì sì
+           01:09:01.555 - 01:09:02.740
+
+1037 001   per poi andare sotto di quello
+           01:09:02.208 - 01:09:03.813
+
+1038 002   ci siamo ci siamo
+           01:09:04.627 - 01:09:05.652
+
+1039 001   ok <sp> <brath> allora te avevamo detto che avevi sopra tipo sopra sciarpa burro vero?
+           01:09:05.957 - 01:09:14.833
+
+1040 002   sì
+           01:09:15.199 - 01:09:15.853
+
+1041 001   mh
+           01:09:16.131 - 01:09:16.736
+           (3.65)
+
+1042 001   quindi vicino al burro che cos'hai?
+           01:09:20.384 - 01:09:22.384
+
+1043 002   piazza
+           01:09:22.733 - 01:09:23.350
+
+1044 001   ok bene devi passare tra ehm burro e piazza per poi andare sotto sotto piazza stavo per dire burro <laugh>  ehm poi dopo che siamo andati sotto devi andare di sopra
+           01:09:23.345 - 01:09:37.184
+
+1045 002   di sopra
+           01:09:37.165 - 01:09:38.054
+
+1046 001   fino tipo all'angolo
+           01:09:39.033 - 01:09:42.033
+
+1047 002   sì
+           01:09:42.567 - 01:09:42.888
+
+1048 001   ok <sp> e che immagine hai?
+           01:09:43.154 - 01:09:44.994
+           (1.03)
+
+1049 002   ma l'angolo di qua?
+           01:09:46.021 - 01:09:46.996
+
+1050 001   no
+           01:09:47.162 - 01:09:47.569
+
+1051 002   o l'angolo dell'immagine?
+           01:09:47.735 - 01:09:48.821
+
+1052 001   sì <sp> no aspè cioè nel senso devi andare sopra devi saltare un'immagine e andare in quell'ultima
+           01:09:49.269 - 01:09:55.997
+
+1053 002   ok capito
+           01:09:56.035 - 01:09:57.393
+           (5.67)
+
+1054 001   che immagine hai vicino alla saGra di san michele?
+           01:10:03.064 - 01:10:06.484
+
+1055 002   la sarta
+           01:10:06.744 - 01:10:07.571
+
+1056 001   eeco! devi passare tra la sarta e quel che hai vicino <sp> tipo
+           01:10:07.663 - 01:10:11.453
+           (2.02)
+
+1057 002   ok <sp> e vado giù <lp> giù giù giù
+           01:10:13.477 - 01:10:17.798
+
+1058 001   aspetta
+           01:10:18.745 - 01:10:19.572
+           (8.18)
+
+1059 001   al contrario
+           01:10:27.755 - 01:10:29.261
+
+1060 001   devi passare da destra <sp> cioè dalla tua sinistra
+           01:10:30.110 - 01:10:33.209
+
+1061 002   ah ok
+           01:10:33.971 - 01:10:35.070
+
+1062 001   eh
+           01:10:35.470 - 01:10:36.186
+           (1.78)
+
+1063 002   fatto
+           01:10:37.966 - 01:10:38.595
+           (2.01)
+
+1064 001   ok dai ddddd e quando siamo andati a sinistr vai giù
+           01:10:40.607 - 01:10:44.150
+           (1.04)
+
+1065 002   sì
+           01:10:45.187 - 01:10:45.792
+           (6.74)
+
+1066 001   passi tra sarta e l'immagine vicino devi andare giù e io sotto <sp> io io ho ghiri quando facciamo tipo giro tee:?
+           01:10:52.532 - 01:11:03.434
+
+1067 002   io non ce l'ho <sp> ciri
+           01:11:03.652 - 01:11:05.355
+
+1068 001   ok ciri vabbè <sp> qua poi sotto ciri che cos'hai?
+           01:11:05.627 - 01:11:10.405
+           (1.77)
+
+1069 002   zanzara
+           01:11:12.173 - 01:11:13.272
+
+1070 001   bene <sp> a-a <laugh>
+           01:11:13.410 - 01:11:15.077
+
+1071 002   tu hai zanzara?
+           01:11:15.119 - 01:11:16.082
+
+1072 001   no
+           01:11:16.097 - 01:11:16.529
+
+1073 002   ok <laugh>
+           01:11:16.534 - 01:11:17.288
+
+1074 001   ok <laugh>
+           01:11:16.534 - 01:11:17.288
+
+1075 001   quando passiamo tipo sopra ciri dobbiamo andare giù la zanzara è come se non ci fosse però andiamo giù lo stesso
+           01:11:17.298 - 01:11:23.434
+
+1076 002   ok
+           01:11:22.948 - 01:11:23.429
+
+1077 001   quinsi <sp< sotto zanzara che cos'hai?
+           01:11:23.903 - 01:11:27.212
+
+1078 002   carne magra muro bar+ barca e topo gigio <sp> no vabbe carne magra e muro
+           01:11:27.239 - 01:11:31.795
+           (1.06)
+
+1079 001   carne magra è qua o qua? 
+           01:11:32.857 - 01:11:35.017
+           (1.17)
+
+1080 002   per me è qua
+           01:11:36.184 - 01:11:37.159
+
+1081 001   quindi a sinistra <per me>
+           01:11:37.584 - 01:11:38.942
+
+1082 002   la mia sinistra <lp> quindi la tua destra
+           01:11:39.275 - 01:11:43.226
+
+1083 001   ok destra quindi ok qua è carne magra quindi destra <sp> mia <lp> sì <sp> ok carne magra quindi devi passare tra ehm cos'era quello vicino a carne magra?
+           01:11:43.242 - 01:11:53.995
+
+1084 002   topo gigio
+           01:11:54.152 - 01:11:54.991
+
+1085 001   devi passare tra carne magra e topo gigio
+           01:11:55.027 - 01:11:57.213
+
+1086 002   ok!
+           01:11:57.416 - 01:11:58.268
+
+1087 001   e andare sotto topo - topo gigio
+           01:11:58.311 - 01:12:00.508
+
+1088 002   ok
+           01:12:00.632 - 01:12:01.360
+
+1089 001   quando sei sotto topo gigio <sp> <breath> avrai un'immagine tipoo:
+           01:12:01.730 - 01:12:05.359
+           (1.75)
+
+1090 002   abra kadabra
+           01:12:07.104 - 01:12:08.042
+
+1091 001   tipo: qua <sp> sotto ehm quasi sotto + 
+           01:12:07.980 - 01:12:11.400
+
+1092 002   *sì sì* sotto topo gigio ho abra kadabra
+           01:12:10.631 - 01:12:13.853
+           (1.81)
+
+1093 001   ma sotto <sp> +quasi vicina?
+           01:12:15.665 - 01:12:17.035
+
+1094 002   *ma sotto sotto* non sotto
+           01:12:16.251 - 01:12:17.955
+
+1095 001   cioè <lp> topo gigio e hai un'immagine tipo qui
+           01:12:18.507 - 01:12:21.593
+           (2.77)
+
+1096 002   sì
+           01:12:24.360 - 01:12:24.668
+
+1097 001   ok <lp> che è?
+           01:12:24.736 - 01:12:25.995
+
+1098 002   la salsiccia
+           01:12:26.023 - 01:12:26.986
+
+1099 001   la salsiccia bene facciamo un giro sulla salsiccia
+           01:12:27.230 - 01:12:29.872
+
+1100 002   salve salsiccia
+           01:12:30.094 - 01:12:31.612
+
+1101 001   io ho la zanzara
+           01:12:31.630 - 01:12:32.543
+
+1102 002   ma facciamo il cerchio?
+           01:12:32.529 - 01:12:33.887
+
+1103 001   se vuoi <sp> sì
+           01:12:34.793 - 01:12:35.755
+
+1104 002   se vuoi
+           01:12:35.784 - 01:12:36.488
+
+1105 001   se vuoi
+           01:12:36.579 - 01:12:37.208
+
+1106 002   sono già arrivata a finish <sp> c'è un problema <laugh> <lp> vai vai
+           01:12:37.884 - 01:12:43.501
+           (1.21)
+
+1107 001   ehm
+           01:12:44.708 - 01:12:45.165
+
+1108 002   vai vai
+           01:12:45.149 - 01:12:45.692
+
+1109 001   sei andata troppo in basso
+           01:12:45.805 - 01:12:47.101
+
+1110 002   no no no giusto non sono arrivata ero quasi arrivata
+           01:12:47.112 - 01:12:49.618
+
+1111 001   ah ok ehm <lp> un minuto <lp> ok hai fatto il giro ehm quando+
+           01:12:50.176 - 01:12:58.262
+
+1112 002   ho fatto il giro intorno alla salsi+
+           01:12:58.283 - 01:12:59.567
+
+1113 001   + fatto il giro su mh: salsiccia devi andare suopra topo gigio
+           01:12:58.493 - 01:13:03.937
+           (5.22)
+
+1114 002   ma il tuo topo gigio o il mio topo gigio?
+           01:13:09.160 - 01:13:10.963
+
+1115 001   il tuo!
+           01:13:10.963 - 01:13:11.679
+           (1.14)
+
+1116 001   ma tu dove sei arrivata?
+           01:13:12.821 - 01:13:14.254
+           (1.24)
+
+1117 002   ah su <lp> ho capito <sp> facciamo un bel giro intorno a topo gigio <sp> ok capito
+           01:13:15.493 - 01:13:23.377
+           (1.01)
+
+1118 001   che cosa c'era vicino a topo gigio?
+           01:13:24.387 - 01:13:26.794
+
+1119 002   carne magra
+           01:13:27.570 - 01:13:28.520
+
+1120 001   ecco vai sotto carne magra
+           01:13:29.234 - 01:13:30.394
+
+1121 002   eh <sp> man+ ok vabbè
+           01:13:30.603 - 01:13:34.307
+
+1122 001   sotto carne magra che cos'hai?
+           01:13:35.208 - 01:13:37.591
+
+1123 002   abra kadabra sotto abra kadabra ho sbarra
+           01:13:37.853 - 01:13:40.149
+           (2.33)
+
+1124 001   mh <sp> aallora carne magra quando hai fatto il giro coosì devi andare quasi/ cioè devi andare vicino ad abra kadabra
+           01:13:42.482 - 01:13:55.223
+
+1125 002   mh <sp> sì sì sì
+           01:13:55.316 - 01:13:56.477
+
+1126 001   per poi andare sotto
+           01:13:56.493 - 01:13:57.431
+
+1127 002   ad abra kadabra
+           01:13:57.689 - 01:13:58.455
+
+1128 001   sì
+           01:13:58.457 - 01:13:58.802
+           (1.69)
+
+1129 002   ok
+           01:14:00.490 - 01:14:00.909
+
+1130 001   e per poi arrivare a-aspè ehm <sp> mh <sp> mh <sp> mh
+           01:14:00.942 - 01:14:05.041
+
+1131 002   faccio un giro intorno a sbarra
+           01:14:05.094 - 01:14:07.217
+
+1132 001   sbarra?
+           01:14:07.745 - 01:14:08.498
+
+1133 002   vabbè
+           01:14:09.159 - 01:14:09.850
+
+1134 001   non avevi detto che sotto carne magra avevi topo/ eh avevi abra kadabra?
+           01:14:09.879 - 01:14:14.842
+
+1135 002   sì
+           01:14:14.851 - 01:14:15.159
+
+1136 001   ecco <sp> vicino ad abra kadabra che cos'hai?
+           01:14:15.480 - 01:14:18.838
+
+1137 002   *eh!
+           01:14:15.974 - 01:14:16.146
+           (1.39)
+
+1138 002   vicino <sp> ho la sbarra e la salsiccia dipende da quale vicino
+           01:14:20.233 - 01:14:23.900
+           (1.03)
+
+1139 001   questo
+           01:14:24.930 - 01:14:25.732
+           (1.09)
+
+1140 002   quindi questo per me
+           01:14:26.818 - 01:14:27.843
+
+1141 001   sì
+           01:14:28.386 - 01:14:28.706
+
+1142 002   ho la sbarra
+           01:14:29.253 - 01:14:30.055
+           (1.25)
+
+1143 001   ma come fai?
+           01:14:31.304 - 01:14:32.218
+           (14.81)
+
+1144 001   allora <cough> vediamo un po' <sp> adesso come faccio ad arrivare ehm allora
+           01:14:47.032 - 01:14:53.736
+           (1.95)
+
+1145 002   ah ho capito devo fare un giro intorno a sbarra
+           01:14:55.686 - 01:14:58.476
+
+1146 001   *allora
+           01:14:56.254 - 01:14:57.081
+           (5.16)
+
+1147 001   mh
+           01:15:03.635 - 01:15:04.104
+           (11.09)
+
+1148 001   <cough> <sp> deve devi andare sotto un'immagine per poi andare tipo a semicerchio <sp> sopra un'altra
+           01:15:15.191 - 01:15:27.722
+
+1149 002   sì
+           01:15:28.186 - 01:15:28.605
+           (2.20)
+
+1150 002   ma tu sopra finish cos'hai?
+           01:15:30.802 - 01:15:32.678
+           (1.59)
+
+1151 001   rabarbaro zucca
+           01:15:34.272 - 01:15:35.272
+
+1152 002   e devo girare intorno a rabarbaro di zucca?
+           01:15:35.816 - 01:15:37.804
+           (1.49)
+
+1153 002   sì?
+           01:15:39.289 - 01:15:39.733
+
+1154 002   <sp>
+           01:15:39.752 - 01:15:40.036
+
+1155 002   ok!
+           01:15:40.036 - 01:15:40.586
+           (56.82)
+
+1156 001   start ehm:
+           01:16:37.406 - 01:16:38.950
+
+1157 002   aspetta devo trovare start
+           01:16:38.955 - 01:16:40.709
+
+1158 001   di sopra
+           01:16:40.733 - 01:16:41.523
+
+1159 002   ok <sp> ma
+           01:16:41.547 - 01:16:42.424
+
+1160 001   e come è come quasi quello di prima
+           01:16:42.651 - 01:16:44.861
+
+1161 002   *appunto
+           01:16:43.780 - 01:16:44.274
+           (1.68)
+
+1162 001   è come quello di prima
+           01:16:46.545 - 01:16:47.558
+
+1163 002   e uguale <sp> a quello che abbiamo fatto
+           01:16:46.730 - 01:16:48.532
+           (21.14)
+
+1164 001   bene <sp> allora hai start vero
+           01:17:09.674 - 01:17:13.353
+
+1165 002   sì
+           01:17:13.773 - 01:17:14.093
+
+1166 002   <laugh>
+           01:17:14.372 - 01:17:15.014
+
+1167 001   <laugh> ok domanda +++ ehm
+           01:17:15.112 - 01:17:17.298
+
+1168 001   dal tuo start
+           01:17:17.600 - 01:17:18.032
+
+1169 002   tanto io non me lo ricordo come l'ho fatto <sp> com'era quindi
+           01:17:18.043 - 01:17:20.870
+
+1170 001   quindi ehm hai start vicino che cos'hai a s+ quasi vicino a star <sp> tipo start è qua
+           01:17:21.045 - 01:17:27.514
+
+1171 002   abra kadabra
+           01:17:27.526 - 01:17:28.699
+
+1172 001   ok vai sopra vai su <sp> non sopra/ vai su con start
+           01:17:29.205 - 01:17:33.823
+
+1173 002   vado su con start
+           01:17:34.156 - 01:17:35.415
+
+1174 001   sì <lp> e che cos'hai?
+           01:17:35.562 - 01:17:38.069
+
+1175 002   squadra targa squadra targa sbara kadabra <lp> quindi per te squadra targa abrakadabra
+           01:17:38.391 - 01:17:46.934
+           (2.07)
+
+1176 001   mh allora partiamo da start qua hai te hai squadra
+           01:17:49.005 - 01:17:53.474
+           (1.47)
+
+1177 002   sì
+           01:17:54.940 - 01:17:55.557
+
+1178 001   anch'io qua te hai targa
+           01:17:55.739 - 01:17:57.961
+
+1179 002   sì
+           01:17:57.967 - 01:17:58.301
+
+1180 001   io ho sarda. bene! allora da targa devi andare vicino a targa
+           01:17:58.585 - 01:18:04.116
+
+1181 002   eh andiamo vicino a targa
+           01:18:04.166 - 01:18:05.795
+
+1182 001   eh: devi farci/ devi andare sopra targa
+           01:18:06.200 - 01:18:09.496
+
+1183 002   andiamo sopra a targa
+           01:18:09.503 - 01:18:10.577
+
+1184 001   e poi te vicino a targa avrai moto
+           01:18:11.158 - 01:18:13.813
+           (1.07)
+
+1185 002   sì
+           01:18:14.886 - 01:18:15.305
+
+1186 001   ok vai sotto moto
+           01:18:15.315 - 01:18:17.117
+
+1187 002   ok
+           01:18:17.118 - 01:18:17.587
+
+1188 001   <laugh> oh mio dio sembra tipo che ok
+           01:18:17.710 - 01:18:20.118
+
+1189 002   <laugh>
+           01:18:20.179 - 01:18:21.982
+
+1190 001   "vai sotto la mot+"
+           01:18:20.586 - 01:18:21.783
+
+1191 001   vai sotto moto <sp> poi avrai l'uomo con la bar-ba
+           01:18:22.443 - 01:18:26.690
+
+1192 002   ssì dove ce l'hai tu l'uomo con la barba
+           01:18:26.767 - 01:18:29.211
+
+1193 001   *eh mi ricordo
+           01:18:27.162 - 01:18:27.878
+
+1194 002   <lp>
+           01:18:29.231 - 01:18:29.762
+
+1195 002   qua c'è moto
+           01:18:29.762 - 01:18:30.806
+
+1196 001   sh! sh! per te è moto con la barb+ sì moto con la/ uomo con la barba <sp> ok da uomo con la barba devi andare sopra 
+           01:18:30.882 - 01:18:38.993
+
+1197 002   andiamo sopra
+           01:18:39.295 - 01:18:40.122
+
+1198 001   eh sono una veggente so che cos'hai <lp> ehm sopra uomo con la barba poi <sp> hai/con la linea che vai giù così hai macchina fotografica?
+           01:18:40.596 - 01:18:53.461
+           (1.53)
+
+1199 002   sì
+           01:18:54.994 - 01:18:55.648
+
+1200 001   bene! vai fino a macchina fotografica
+           01:18:55.987 - 01:18:58.123
+           (2.60)
+
+1201 002   fatto
+           01:19:00.719 - 01:19:01.127
+
+1202 001   poi <sp> fai cosìì: cioè tipo vai a...
+           01:19:01.866 - 01:19:05.680
+
+1203 002   aspè fffff ah ho capì
+           01:19:05.707 - 01:19:07.596
+
+1204 001   vai a destra per te per te è destra
+           01:19:07.620 - 01:19:09.559
+
+1205 002   ok ok ok
+           01:19:09.564 - 01:19:10.502
+           (1.67)
+
+1206 001   però te macchina fotografica ce l'hai tpo di lato no
+           01:19:12.168 - 01:19:15.094
+
+1207 002   ce l'ho qua
+           01:19:15.082 - 01:19:15.637
+
+1208 002   cioè sì lì <sp> lì 
+           01:19:15.847 - 01:19:16.964
+
+1209 001   ok <sp> quindi devi andare così per poi far così un tipo di semicerchio
+           01:19:17.125 - 01:19:21.619
+           (3.45)
+
+1210 002   ssì
+           01:19:25.070 - 01:19:25.688
+           (1.01)
+
+1211 001   ookk
+           01:19:26.700 - 01:19:28.070
+
+1212 002   ah devo fare il semicerc+/ tu hai macchina fotografica
+           01:19:28.150 - 01:19:31.162
+
+1213 001   sì
+           01:19:31.162 - 01:19:31.631
+
+1214 002   qua cos'hai
+           01:19:31.630 - 01:19:32.322
+
+1215 001   vicino a macchina fotografica?
+           01:19:32.716 - 01:19:34.247
+
+1216 002   *sì
+           01:19:33.444 - 01:19:33.876
+
+1217 001   uomo con la barba però per te sarà...
+           01:19:34.598 - 01:19:36.129
+
+1218 002   e sotto?
+           01:19:36.140 - 01:19:36.943
+
+1219 001   sotto uomo con la barba?
+           01:19:37.306 - 01:19:38.627
+
+1220 002   sì
+           01:19:38.595 - 01:19:39.003
+
+1221 001   psichiatria
+           01:19:39.149 - 01:19:40.309
+
+1222 002   anch'io <breath>
+           01:19:40.507 - 01:19:41.507
+
+1223 001   ok
+           01:19:41.525 - 01:19:41.896
+
+1224 002   tra
+           01:19:41.883 - 01:19:42.302
+
+1225 001   bene <sp> tu dove
+           01:19:42.425 - 01:19:43.487
+
+1226 002   eh ma:
+           01:19:43.474 - 01:19:44.141
+
+1227 001   io ho uomo con la barba
+           01:19:44.165 - 01:19:44.696
+
+1228 002   io sono passata in mezzo
+           01:19:44.701 - 01:19:46.059
+           (1.12)
+
+1229 001   tra l'uomo con la barba e macchina <sp> sì esatto
+           01:19:47.183 - 01:19:50.097
+
+1230 002   *eh!
+           01:19:48.195 - 01:19:48.652
+
+1231 001   tanto sì è un passaggio <sp> poi devi andare sopra/ te cos'hai <sp> vicino <sp> cioè dove sei passata in mezzo tra macchina fotografica e?
+           01:19:50.386 - 01:19:59.905
+
+1232 002   vincenzo marra
+           01:20:00.412 - 01:20:01.597
+
+1233 001   ecco vai sopra vincenzo marra
+           01:20:01.616 - 01:20:03.900
+           (2.34)
+
+1234 002   va bene 
+           01:20:06.235 - 01:20:06.840
+
+1235 001   poi <lp> te sotto moto hai ufficio?
+           01:20:07.576 - 01:20:11.242
+
+1236 002   sì
+           01:20:11.473 - 01:20:11.844
+
+1237 001   bene <sp> fai un cerchio su ufficio
+           01:20:11.950 - 01:20:14.037
+           (6.42)
+
+1238 001   ok quindi ti ritrovi a  af afafr adptp ad aver fatto cos' <sp> giusto?
+           01:20:20.457 - 01:20:26.136
+
+1239 002   sì
+           01:20:26.153 - 01:20:26.486
+
+1240 001   ok ehm vai giù
+           01:20:26.658 - 01:20:29.176
+           (1.61)
+
+1241 001   e poi fai un cerchio su psi-chiaa-tria
+           01:20:30.785 - 01:20:34.081
+
+1242 002   ho un problema
+           01:20:32.519 - 01:20:33.186
+
+1243 002   come faccio? <sp> ah giù di qua capito <sp> capito
+           01:20:34.097 - 01:20:37.838
+           (2.18)
+
+1244 002   ok <sp> poi?
+           01:20:40.023 - 01:20:41.220
+
+1245 001   ehm quando hai fatto il cerchio a psi-chiatria dovevi far così quindi sei arrivata così
+           01:20:42.077 - 01:20:45.978
+
+1246 002   sono arrivata qui
+           01:20:46.694 - 01:20:47.299
+           (14.36)
+
+1247 001   mh <sp> allora ah questa cosa qua è +++ <sp> psichiatria è quasi uguale soltanto che devi fare il cerchio a piccione
+           01:21:01.661 - 01:21:18.086
+
+1248 002   ok
+           01:21:18.304 - 01:21:19.563
+
+1249 001   e poi è come se...
+           01:21:19.795 - 01:21:21.684
+           (6.64)
+
+1250 001   eh vabbe poi il piccione fa come se fosse stato il cerchio per psichiatria
+           01:21:28.319 - 01:21:32.961
+
+1251 002   sì l'ho fatto l'ho fatto
+           01:21:32.986 - 01:21:33.805
+
+1252 001   *ok* quando sei arrivata così per psichiatria devi andare ehm
+           01:21:33.805 - 01:21:38.484
+           (1.40)
+
+1253 001   che cos'hai sotto la squadra?
+           01:21:39.881 - 01:21:41.992
+           (4.19)
+
+1254 001   squadra è qui e che cos'hai qua?
+           01:21:46.182 - 01:21:48.886
+
+1255 002   abra kadabra ma la squadra è in alto
+           01:21:49.223 - 01:21:51.174
+
+1256 001   lo so però
+           01:21:51.585 - 01:21:52.511
+
+1257 002   abra kadabra
+           01:21:52.727 - 01:21:53.455
+
+1258 001   per sapere che cos'hai <breath> bene
+           01:21:53.473 - 01:21:56.115
+
+1259 002   sotto abra kadabra ho capra e chakra
+           01:21:56.139 - 01:21:58.683
+           (3.03)
+
+1260 001   un momento allora te hai squadra qui poi hai abra kadabra <sp> proprio sotto?
+           01:22:01.712 - 01:22:08.305
+
+1261 002   sì
+           01:22:08.287 - 01:22:08.595
+
+1262 001   ok bene allora devi andare da abra kadabra <sp> fai un cerchio ad abra kadabra e poi vai tra  uh che difficoltà <sp> vabbè <cough> che brutto vedere le immagini  differenti <lp> poi quando hai fatto <lp> poi te sotto abra kadabra che cos'hai?
+           01:22:08.813 - 01:22:29.237
+           (2.07)
+
+1263 002   chakra capra pizza
+           01:22:31.303 - 01:22:32.920
+
+1264 002   <lp>
+           01:22:32.948 - 01:22:34.899
+
+1265 002   il chakra e la pizza
+           01:22:34.899 - 01:22:35.887
+           (2.46)
+
+1266 001   la pizza dove ce l'hai?
+           01:22:38.345 - 01:22:39.469
+
+1267 002   sotto al chakra
+           01:22:39.771 - 01:22:40.857
+
+1268 001   la chakra dove ce l'hai?
+           01:22:41.696 - 01:22:42.672
+
+1269 002   sotto abra kadabra <laugh>
+           01:22:43.173 - 01:22:44.815
+
+1270 001   ehm quindi hai chakra
+           01:22:44.997 - 01:22:47.762
+
+1271 002   sìì
+           01:22:48.132 - 01:22:48.761
+
+1272 001   e qua?
+           01:22:48.925 - 01:22:49.555
+
+1273 002   allora qui la chakra qua capra
+           01:22:50.023 - 01:22:52.307
+
+1274 001   devi passare in mezzo a chakra e capra
+           01:22:52.748 - 01:22:54.761
+
+1275 002   perfetto
+           01:22:54.787 - 01:22:55.478
+           (1.55)
+
+1276 002   passata in mezzo a chakra
+           01:22:57.026 - 01:22:58.051
+
+1277 001   e sottoo: chakra che era qui <sp> che cos'hai? quindi
+           01:22:58.431 - 01:23:03.344
+
+1278 002   pizza e arpa
+           01:23:03.736 - 01:23:04.600
+           (1.16)
+
+1279 001   pizza: quindi fai un cerchio a pizza
+           01:23:05.762 - 01:23:07.836
+
+1280 002   facciamo un cerchio a pizza
+           01:23:08.433 - 01:23:09.741
+           (4.08)
+
+1281 001   che cos'hai sotto <lp> che cos'hai sotto capra?
+           01:23:13.820 - 01:23:21.067
+           (3.06)
+
+1282 002   sagra della castagna
+           01:23:24.130 - 01:23:25.809
+           (1.34)
+
+1283 001   bene 
+           01:23:27.153 - 01:23:27.462
+
+1284 002   <laugh>
+           01:23:27.446 - 01:23:28.224
+
+1285 001   e: sotto pizza?
+           01:23:28.356 - 01:23:31.072
+
+1286 002   sagra della castagna
+           01:23:31.320 - 01:23:32.443
+           (1.47)
+
+1287 002   <laugh>
+           01:23:33.910 - 01:23:34.836
+           (6.01)
+
+1288 001   come fai ad avere...
+           01:23:40.846 - 01:23:41.624
+           (20.23)
+
+1289 001   allora abbiamo detto che hai fatto un giro ad abra kadabra e quindi sei passata in mezzo a chakra e a capra <sp> giusto?
+           01:24:01.851 - 01:24:11.790
+
+1290 002   sì
+           01:24:11.802 - 01:24:12.271
+
+1291 001   ecco <sp> e poi hai fatto un cerchio a pizza
+           01:24:12.813 - 01:24:16.715
+
+1292 002   sì
+           01:24:16.961 - 01:24:17.430
+
+1293 001   e quindi poi sei andata giù
+           01:24:17.875 - 01:24:19.875
+
+1294 002   adiamo giù
+           01:24:20.223 - 01:24:21.334
+
+1295 001   ehm e che cos'hai sotto <sp> ehm:
+           01:24:22.062 - 01:24:26.160
+
+1296 002   devo passare sotto sagra della castagne
+           01:24:26.160 - 01:24:28.605
+           (1.09)
+
+1297 001   sì <lp> aspè però dove ce l'hai?
+           01:24:29.690 - 01:24:32.233
+
+1298 002   qua pizza qua sagra delle castagne
+           01:24:32.882 - 01:24:34.870
+
+1299 002   quindi per te qua e qua
+           01:24:35.839 - 01:24:37.357
+           (2.08)
+
+1300 002   sì giusto
+           01:24:39.441 - 01:24:40.281
+
+1301 001   eh mh <sospiro> pizza e sotto così?
+           01:24:40.970 - 01:24:46.143
+           (1.78)
+
+1302 002   marca da bollo
+           01:24:47.919 - 01:24:48.659
+
+1303 001   ecco devi andare devi andare da marca da bollo <sp> e devi andare/ fai una riga fai così sotto e ptptp <sp> cioè nel senso fai una riga vicino a marca da bollo e poi vai giu poi vai su
+           01:24:49.384 - 01:25:01.692
+
+1304 002   <laugh>
+           01:24:57.118 - 01:24:58.130
+
+1305 002   ho capito sì sì
+           01:25:02.133 - 01:25:03.676
+
+1306 001   e poi che cos'hai vicino a marca da bollo?
+           01:25:03.795 - 01:25:06.178
+           (4.80)
+
+1307 002   sarda?
+           01:25:10.981 - 01:25:11.771
+
+1308 001   ok
+           01:25:12.522 - 01:25:12.892
+
+1309 001   ehm
+           01:25:13.254 - 01:25:14.217
+
+1310 002   e tu hai targa?
+           01:25:14.237 - 01:25:15.089
+           (1.29)
+
+1311 001   oh come fai a sapere?
+           01:25:16.383 - 01:25:17.543
+
+1312 002   chissà perchè <laugh>
+           01:25:17.987 - 01:25:19.049
+
+1313 001   allora vai sopra sarda
+           01:25:19.068 - 01:25:21.018
+           (3.14)
+
+1314 002   ah <laugh>
+           01:25:24.156 - 01:25:28.144
+
+1315 001   vai sopra sarda poi fai un giro sulla bara
+           01:25:28.113 - 01:25:31.471
+           (1.16)
+
+1316 002   ci facciamo un giretto <sp> ma dal basso o dall'alto? avbbè
+           01:25:32.634 - 01:25:35.794
+
+1317 001   dall'alto fai così <sing> e poi dovresti avere la linea dal basso
+           01:25:35.917 - 01:25:40.004
+
+1318 001   cioè nel senso fai così
+           01:25:40.819 - 01:25:42.152
+
+1319 002   ok capito <sp> devo andare sotto giri di boa quindi
+           01:25:43.037 - 01:25:48.172
+           (1.01)
+
+1320 001   ma chi ti ha detto giri di boa <sp> bara
+           01:25:49.185 - 01:25:51.222
+
+1321 002   sì capito capito
+           01:25:51.301 - 01:25:53.129
+
+1322 001   e poi vai che cos'hai sotto sarda?
+           01:25:53.139 - 01:25:58.041
+
+1323 002   giri di boa
+           01:25:58.025 - 01:25:58.877
+
+1324 001   BENE vai sotto giri di boa 
+           01:25:59.217 - 01:26:00.694
+
+1325 002   sono andata sotto giri di *boa
+           01:26:00.660 - 01:26:02.006
+
+1326 001   e poi sei a finish
+           01:26:02.017 - 01:26:02.708
+
+1327 002   ah
+           01:26:02.863 - 01:26:03.233
+
